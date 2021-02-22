@@ -1,13 +1,49 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+/* ./src/index.css */
+
+.back{
+    background-color:rgb(0, 0, 0);
+    align-items: center;
+    justify-content: flex-end;
+    color:white;
+
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.logo{
+    font-family: 'Major Mono Display', monospace;
 }
+
+.roboto{
+    font-family: 'Roboto', sans-serif;
+}
+
+.poppin{
+    font-family: 'Poppins', sans-serif;
+}
+
+.buy{
+    background: url("./assets/buy.jpg")center;
+}
+.buyh{
+    background: url("./assets/buyh.jpg")center;
+}
+
+.rent{
+    background: url("./assets/rent.jpg") center;
+}
+.renth{
+    background: url("./assets/renth.jpg") center;
+}
+.white{
+    color:white;
+}
+.center {
+    margin: 0;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
