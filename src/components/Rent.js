@@ -32,12 +32,12 @@ const Rent = () => {
                     />
                     )}
                 />
-                <InputLabel id="demo-simple-select-label" >From </InputLabel>
+                {/* <InputLabel id="demo-simple-select-label" >From </InputLabel>
                     <Select className="w-20" labelId="demo-simple-select-label" id="demo-simple-select" value={age} onChange={handleChange}>
                         <MenuItem value={10}>Ten</MenuItem>
                         <MenuItem value={20}>Twenty</MenuItem>
                         <MenuItem value={30}>Thirty</MenuItem>
-                    </Select>
+                    </Select> */}
                 </FormControl>
                 </div>
 
