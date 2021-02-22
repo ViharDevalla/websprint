@@ -7,11 +7,20 @@ const Navbar = () => {
                     <a href="/" className="logo">Hermes</a>
                 </div>
                 <div className="flex-1">
+                   <a href="/buy">Model X</a>
+                </div>
+                <div className="flex-1">
+                   <a href="/buy"> Model Y</a>
+                </div>
+                <div className="flex-1">
+                   <a href="/buy"> Model Z</a>
+                </div>
+{/*                 <div className="flex-1">
                    <a href="/buy"> Buy</a>
                 </div>
                 <div className="flex-1">
                     <a href="/rent">Rent</a>
-                </div>
+                </div> */}
                 <div className="flex-1">
                     <a href='/login'>Login/Register</a>
                 </div>
