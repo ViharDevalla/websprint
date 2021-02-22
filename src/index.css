@@ -23,15 +23,9 @@
 .buy{
     background: url("./assets/buy.jpg")center;
 }
-.buyh{
-    background: url("./assets/buyh.jpg")center;
-}
 
 .rent{
     background: url("./assets/rent.jpg") center;
-}
-.renth{
-    background: url("./assets/renth.jpg") center;
 }
 .white{
     color:white;
