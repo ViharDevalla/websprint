@@ -14,7 +14,7 @@ const Rent = () => {
     return (
         <div className="rentback h-screen bg-cover">
             <div className="w-1/3 px-10 py-20 h-full flex-box"  >
-                <div className="bg-gray-500 p-5 w-1/2">
+                <div className="bg-gray-500 p-5 ">
                 <FormControl>
                 <Autocomplete
                     freeSolo
@@ -32,12 +32,12 @@ const Rent = () => {
                     />
                     )}
                 />
-                {/* <InputLabel id="demo-simple-select-label" >From </InputLabel>
+                <InputLabel id="demo-simple-select-label" >From </InputLabel>
                     <Select className="w-20" labelId="demo-simple-select-label" id="demo-simple-select" value={age} onChange={handleChange}>
                         <MenuItem value={10}>Ten</MenuItem>
                         <MenuItem value={20}>Twenty</MenuItem>
                         <MenuItem value={30}>Thirty</MenuItem>
-                    </Select> */}
+                    </Select>
                 </FormControl>
                 </div>
 
