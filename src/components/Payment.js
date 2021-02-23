@@ -75,10 +75,10 @@ const Payment = () => {
                     var postRequest = {"id":queryData.id}
                     console.log("Post Request"+JSON.stringify(postRequest))
                     axios.post(mongoUrl,postRequest).then(response =>{
-                        alert("Post Response"+JSON.stringify(response))
+                        //alert("Post Response"+JSON.stringify(response))
                         var postResponse = response.data[0];
-                        alert(JSON.stringify(postResponse.id))
-                        console.log(JSON.stringify(postResponse))
+                        //alert(JSON.stringify(postResponse.id))
+                        //console.log(JSON.stringify(postResponse))
                         var availNumber = postResponse.avail -1
                         //alert(availNumber)
                         console.log(availNumber)
@@ -89,7 +89,7 @@ const Payment = () => {
                             }
                         }
                         //alert(JSON.stringify(putRequest))
-                        console.log(JSON.stringify(putRequest))
+                        //console.log(JSON.stringify(putRequest))
                         var putResponse = axios.put(mongoUrl+"update",putRequest)
                         //alert(JSON.stringify(putResponse))
 
