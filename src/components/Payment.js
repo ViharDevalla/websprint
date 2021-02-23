@@ -137,7 +137,7 @@ const Payment = () => {
 
                 <div className="bg-gray-900" style={{display:"flex",justifyContent:'center', alignItems:'center',fontFamily:"Roboto",fontSize:"20px",height:"100vh"}}>
                     <button onclick={displayRazorpay()}></button>
-                    <a href="/" style={{justifyContent:'center', alignItems:'center',fontFamily:"Roboto",fontSize:"20px"}}>Return to Home Page</a>
+                    <a style={{justifyContent:'center', alignItems:'center',fontFamily:"Roboto",fontSize:"20px",color:'white'}}>Loading....</a>
                 </div>
     )
         

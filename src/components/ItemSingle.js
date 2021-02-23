@@ -16,7 +16,7 @@ function Single(prop) {
         >
             <div id="ContentWrapper">
             <div id="Desc">
-                <h2 data-aos="fade-up" data-aos-duration="1000">
+                <h2  data-aos="fade-up" data-aos-duration="1000" style={{color: prop.textc,fontWeight:'bold',fontFamily:"Poppins"}}>
                 {prop.title}
                 </h2>
                 <p data-aos="fade-in">

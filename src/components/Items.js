@@ -9,6 +9,7 @@ function SingleCarOrHome() {
         return (
           <Single
             key={index}
+            textc={datas.textc}
             head={datas.head}
             title={datas.title}
             fButton={datas.fButton}
