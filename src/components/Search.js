@@ -33,8 +33,8 @@ const Search = () => {
     return (
         <div className="bg-gray-900 min-h-full p-20">
             {searchData.map((data,key) => {
-                var imagePath = "../assets/"+data.company+".png"
-                var modelPath = "../assets/"+data.model+".png"
+                var imagePath = '../assets/'+data.company+'.png'
+                var modelPath = '../assets/'+data.model+'.png'
                 return(
                     <div key={key}>
                         <Card className="m-0 m-10">
