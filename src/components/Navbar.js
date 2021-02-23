@@ -26,7 +26,7 @@ class Navbar extends Component{
     render(){
         if(token.login === "True"){
             return (
-                <div className="flex p-4 space-x-24 back text-lg poppin">
+                <div className="flex p-4 space-x-24 back text-lg poppin static min-w-full fixed">
                     <div className="ml-10 flex-1 lg:text-3xl md:text-3xl sm:text-lg">
                         <a href="/" className="logo">Hermes</a>
                     </div>

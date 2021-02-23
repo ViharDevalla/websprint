@@ -18,14 +18,6 @@ const Payment = () => {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(queryData.id)
     }
-    /*
-    useEffect(() => {
-        const getFlights = () => {fetch(mongoUrl,mongoRequest).then(response => response.json()).then(data => {setBookData(data);console.log(bookData)});}
-        getFlights()
-        alert(JSON.stringify(bookData))
-
-      }, []); */
-    //alert(window.sessionStorage.getItem("bookingDetails"))
     
     function loadScript(src) {
         return new Promise((resolve) => {
@@ -41,7 +33,7 @@ const Payment = () => {
         });
     }
 
-    async function displayRazorpay(flightAmount) {
+    async function displayRazorpay(carAmount) {
         const price = queryData.price*100;
         console.log(price)
         const res = await loadScript(

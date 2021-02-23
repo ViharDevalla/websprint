@@ -10,16 +10,15 @@ import { makeStyles } from '@material-ui/core/styles';
 const Rent = () => {
     const [company, setCompany] = React.useState('');
     const [model, setModel] = React.useState('');
-    const [from, setFrom] = React.useState('');
-    const [to, setTo] = React.useState('');
+    const [date, setDate] = React.useState('');
     const [location,setLocation] = React.useState('');
     var history = useHistory()
 
     const handleChange = (event) => {
-        console.log(company,model,from,to,location)
+        console.log(company,model,location)
         
         window.localStorage.setItem("booking",[])
-        var query = "?company="+company+"&model="+model+"&from="+from+"&to="+to+"&location="+location;
+        var query = "?company="+company+"&model="+model+"&date="+date+"&location="+location;
         history.push({pathname:"/search",search:query})
       };
 
@@ -34,7 +33,8 @@ const Rent = () => {
         <div className="rentback h-screen bg-cover">
             
             <div className="w-1/3 px-10 py-20 h-full flex-box"  >
-                <div className="bg-gray-400 p-5 ">
+                <div className="bg-gray-400 p-10 mt-24">
+                <h1 className="text-4xl text-center">Rent A Car</h1>
                 <Autocomplete
                     className={classes.root}
                     freeSolo
@@ -60,7 +60,7 @@ const Rent = () => {
                     className="w-full"
                     id="free-solo-2-demo"
                     disableClearable
-                    options={carCompany.map((option) => option.title)}
+                    options={carModel.map((option) => option.model)}
                     inputValue={model}
                     onChange={(e,v)=>setModel(v)}
                     renderInput={(params) => (
@@ -73,23 +73,13 @@ const Rent = () => {
                     />
                     )}
                 />
-                <div  className="space-x-10">
+                <div  className="w-full">
                 <TextField
                     id="date"
-                    label="From"
+                    label="Date"
                     type="date"
-                    value={from} onChange={({target}) => setFrom(target.value)}
-
-                    InputLabelProps={{
-                    shrink: true,
-                    }}
-                />
-                <TextField
-                    id="date"
-                    label="To"
-                    type="date"
-                    value={to} onChange={({target}) => setTo(target.value)}
-
+                    value={date} onChange={({target}) => setDate(target.value)}
+                    style={{width: '100%'}}
                     InputLabelProps={{
                     shrink: true,
                     }}
@@ -102,7 +92,7 @@ const Rent = () => {
                     className="w-full"
                     id="free-solo-2-demo"
                     disableClearable
-                    options={carCompany.map((option) => option.title)}
+                    options={locationList.map((option) => option.city)}
                     inputValue={location}
                     onChange={(e,v)=>setLocation(v)}
 
@@ -127,27 +117,47 @@ const Rent = () => {
 }
 
 const carCompany = [
-    { title:"Tesla"},
-    { title:"Ford" },
-    {title:"Lamborgini"},
-    { title:"Ferrari"}
-]
-const carModel = [
     {      
         title:"Tesla",
-        model:["Model S","Model 3","Model X","Model Y"]
     },   
     { 
         title:"Ford",
-        model:['Mustang']
     },
     {
         title:"Lamborgini",
-        model:["Urus","Murcilago"]
     },
     { 
         title:"Porsche",
-        model:["Taycan"]
     }
+]
+const carModel = [
+    {
+        model:"Model S"
+    },
+    {
+        model:"Model 3"
+    },
+    {
+        model:"Model X"
+    },
+    {
+        model:"Model Y"
+    },
+    {
+        model:"Urus"
+    },
+    {
+        model:"F8"
+    },
+    {
+        model:"GT Sport"
+    },
+    {
+        model:"Taycan"
+    }
+]
+
+const locationList = [
+    {city:"Bangalore"},{city:"Mumbai"},{city:"Chennai"},{city:"Delhi"}
 ]
 export default Rent

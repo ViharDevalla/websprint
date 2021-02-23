@@ -1,7 +1,7 @@
 import {React,useState,useEffect} from 'react'
 import { useHistory } from "react-router-dom";
 
-import Tesla from '../assets/tesla.png';
+import Tesla from '../assets/Tesla Corporation.png';
 import model3 from '../assets/teslamodel3.png';
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
@@ -24,7 +24,7 @@ const Search = () => {
         body: JSON.stringify(qdata)
     }
     useEffect(() => {
-        alert("Searching for flights ...")
+        alert("Searching for cars ...")
         const getCars = () => {fetch(mongoUrl,mongoRequest).then(response => response.json()).then(data => setSearches(data));}
         getCars()
         console.log(searchData)
@@ -33,6 +33,8 @@ const Search = () => {
     return (
         <div className="bg-gray-900 min-h-full p-20">
             {searchData.map((data,key) => {
+                var imagePath = "../assets/"+data.company+".png"
+                var modelPath = "../assets/"+data.model+".png"
                 return(
                     <div key={key}>
                         <Card className="m-0 m-10">

@@ -1,7 +1,8 @@
 import React from 'react'
 import Popup from 'reactjs-popup';
+import {useHistory} from 'react-router-dom';
 function Single(prop) {
-    //alert(bookurl)
+    const history = useHistory();
     return (
         <div>
         <section
@@ -24,7 +25,7 @@ function Single(prop) {
                 </p>
                 </div>
                 <div id="Buttons">
-                <button data-aos="fade-right" data-aos-duration="900"><a href="/payment?id=1&price=5000">{prop.fButton}</a></button>
+                <button data-aos="fade-right" data-aos-duration="900" onClick={()=> history.push("/payment?id=1&price=5000")}>{prop.fButton}</button>
                 <Popup trigger={<button data-aos="fade-right" data-aos-duration="900">{prop.sButton}</button>} modal nested>
                 {close => (
                         

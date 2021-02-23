@@ -3,10 +3,6 @@ import Car1 from '../assets/modelx.jpg'
 import Car2 from '../assets/modelxx.jpg'
 import Car3 from '../assets/modely.jpg'
 import Car4 from '../assets/modelyy.jpg'
-import Car5 from '../assets/modelz.jpg'
-import Car6 from '../assets/modelzz.jpg'
-import Car7 from '../assets/rent.jpg'
-
 const Data = [
   {
     title: 'Model X',

@@ -1,0 +1,4641 @@
+[{
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-01",
+    "price": 700,
+    "id": "a1e342cc91ac05039e31c5c70bf4f4ef",
+    "availability": 85
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-01",
+    "price": 500,
+    "id": "f26b87703fd555994f81c31ccdac8b16",
+    "availability": 70
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-01",
+    "price": 900,
+    "id": "1e52b90fdded1a59708107ea978afab5",
+    "availability": 59
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-01",
+    "price": 800,
+    "id": "22f86e8a4fdb78861436c395b1b6dea7",
+    "availability": 64
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Bangalore",
+    "date": "2021-02-01",
+    "price": 600,
+    "id": "09ef85624e2b5f6bfd4e926a83f9729a",
+    "availability": 47
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-01",
+    "price": 500,
+    "id": "adbf913c34c84579c20883b5765f047b",
+    "availability": 92
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-01",
+    "price": 900,
+    "id": "bccb70a35a0e51ff31d313232cfa58fe",
+    "availability": 14
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Delhi",
+    "date": "2021-02-01",
+    "price": 500,
+    "id": "ea1237f18d7e8c918e068b25b7b0a979",
+    "availability": 72
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-01",
+    "price": 900,
+    "id": "68c99f3088b1cc689cccf8828b01711b",
+    "availability": 83
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Delhi",
+    "date": "2021-02-01",
+    "price": 800,
+    "id": "18cced6cf4310adbdf7057c62d064de4",
+    "availability": 84
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Delhi",
+    "date": "2021-02-01",
+    "price": 800,
+    "id": "77de5af0834ba21ec42dead2b94f0b9c",
+    "availability": 25
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-01",
+    "price": 500,
+    "id": "6d91994ed09dfdca5887f6810cafa987",
+    "availability": 14
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Delhi",
+    "date": "2021-02-01",
+    "price": 900,
+    "id": "eb6bf7339b3660951f28e26350acac4b",
+    "availability": 50
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Delhi",
+    "date": "2021-02-01",
+    "price": 800,
+    "id": "f65cf1f2c438671bffd473d43f14bdb7",
+    "availability": 4
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-01",
+    "price": 500,
+    "id": "cb8413575238d9e30d60f07d57d1a8ad",
+    "availability": 57
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-01",
+    "price": 900,
+    "id": "5dc06328fc235e5653e61cbdacb56990",
+    "availability": 37
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-01",
+    "price": 700,
+    "id": "e4e69f40d74b5d1313a14570bf55f271",
+    "availability": 58
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Bangalore",
+    "date": "2021-02-01",
+    "price": 800,
+    "id": "b5e197735792dc4b7857000a62d5b4d3",
+    "availability": 58
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-01",
+    "price": 900,
+    "id": "fe6f29e08378d4d32e8df7c9820bd07a",
+    "availability": 53
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-01",
+    "price": 500,
+    "id": "076bbdecaaf5fb20b07c42c75ac3ba8f",
+    "availability": 25
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-02",
+    "price": 700,
+    "id": "3bea90ee6dcdbab0ad73283313ab89d5",
+    "availability": 67
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Chennai",
+    "date": "2021-02-02",
+    "price": 900,
+    "id": "374d229d7d1174ae49c6d45bb26179f5",
+    "availability": 43
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-02",
+    "price": 500,
+    "id": "cce81ae645be72fde66036312783d242",
+    "availability": 91
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-02",
+    "price": 700,
+    "id": "a1416e81e29ae3d46a2ed693ffc24128",
+    "availability": 66
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-02",
+    "price": 900,
+    "id": "57782868c115c0976d4abf88d5f91fac",
+    "availability": 45
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Mumbai",
+    "date": "2021-02-02",
+    "price": 600,
+    "id": "f9588a66ce870247cbb110fc6492816b",
+    "availability": 59
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Mumbai",
+    "date": "2021-02-02",
+    "price": 600,
+    "id": "234aedeb01fdae7dd12c00dc7daa9b65",
+    "availability": 47
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-02",
+    "price": 600,
+    "id": "1eaf113419746b6b0458813b1ea7e583",
+    "availability": 73
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-02",
+    "price": 600,
+    "id": "3fb8ddf85630169df020ffc7a7dfbac7",
+    "availability": 44
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-02",
+    "price": 600,
+    "id": "33ba4ded2c5253bfe44e04f521ca808a",
+    "availability": 18
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-02",
+    "price": 600,
+    "id": "b134830441ec00b464aa8695cafe548a",
+    "availability": 9
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Delhi",
+    "date": "2021-02-02",
+    "price": 500,
+    "id": "82ab607175f80f092dbbe6abe115bce0",
+    "availability": 82
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Delhi",
+    "date": "2021-02-02",
+    "price": 500,
+    "id": "7a370f8f21b76086001dd4fa23dccd52",
+    "availability": 29
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Mumbai",
+    "date": "2021-02-02",
+    "price": 800,
+    "id": "1cf77745e19b9f0828f00a928a83b796",
+    "availability": 60
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-02",
+    "price": 600,
+    "id": "34ce112cb1c7841298d44eb7e2365df9",
+    "availability": 21
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-02",
+    "price": 500,
+    "id": "9b39c97abaad1ea669b65efc37bd0855",
+    "availability": 54
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-02",
+    "price": 500,
+    "id": "6c7ed2e19c55df2d5b32c0ccc8f93526",
+    "availability": 70
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-02",
+    "price": 500,
+    "id": "52dad188dbf0313788bb246279b73981",
+    "availability": 57
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Mumbai",
+    "date": "2021-02-02",
+    "price": 500,
+    "id": "571a0228eeef6a60fdb70a5470e53ead",
+    "availability": 45
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-02",
+    "price": 800,
+    "id": "39ff8a7d35f5fa0c33ffcce6a7d7b215",
+    "availability": 28
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-03",
+    "price": 500,
+    "id": "dc40c683813ea62c25b6429bdc5f3f13",
+    "availability": 15
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Delhi",
+    "date": "2021-02-03",
+    "price": 500,
+    "id": "b85b69970669613a38bad05f4dbb3d9b",
+    "availability": 7
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Mumbai",
+    "date": "2021-02-03",
+    "price": 600,
+    "id": "0d5c108543d5f183dfaf46f3ae2fa2ed",
+    "availability": 16
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Chennai",
+    "date": "2021-02-03",
+    "price": 600,
+    "id": "0f6197932bcc37cafceadc5b1c56196f",
+    "availability": 94
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Delhi",
+    "date": "2021-02-03",
+    "price": 500,
+    "id": "3919215f1a8849901e9ce2a1c123c630",
+    "availability": 92
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Delhi",
+    "date": "2021-02-03",
+    "price": 600,
+    "id": "e2436acd76f05e7f7936cb6b85f9d8d0",
+    "availability": 45
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Delhi",
+    "date": "2021-02-03",
+    "price": 800,
+    "id": "38f9b2b81e9066d50d8315b7d3d9911d",
+    "availability": 65
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-03",
+    "price": 800,
+    "id": "2184523971ddcfe29162b820c46bdd77",
+    "availability": 10
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Delhi",
+    "date": "2021-02-03",
+    "price": 900,
+    "id": "737920cd034b633c3376e3f2b92176f8",
+    "availability": 34
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-03",
+    "price": 600,
+    "id": "ea0bad45772eed1ec60936580af78d1c",
+    "availability": 2
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-03",
+    "price": 700,
+    "id": "9f88c9b3c932b7348fa871dc49c7d446",
+    "availability": 19
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Delhi",
+    "date": "2021-02-03",
+    "price": 600,
+    "id": "112a63a7a9f64ef72d246bb8d0d475d7",
+    "availability": 84
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Mumbai",
+    "date": "2021-02-03",
+    "price": 600,
+    "id": "127a77e97333dd695b2486ba1b400d5b",
+    "availability": 46
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-03",
+    "price": 500,
+    "id": "76ff8f5a7f25e7dcbab82d983292074b",
+    "availability": 28
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-03",
+    "price": 800,
+    "id": "1216b218ee6b346d077c21307834e568",
+    "availability": 77
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-03",
+    "price": 900,
+    "id": "1c699610d97048ca3bc7b346d3b244f3",
+    "availability": 50
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-03",
+    "price": 700,
+    "id": "53555d32536042e5f8cc617076c3e0c0",
+    "availability": 39
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-03",
+    "price": 700,
+    "id": "b008f18daeafd078d5ab99771a5688d8",
+    "availability": 75
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model S",
+    "location": "Chennai",
+    "date": "2021-02-03",
+    "price": 500,
+    "id": "4051cdfd09c7009f891113b294c87901",
+    "availability": 54
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-03",
+    "price": 600,
+    "id": "17e9d7c9305690819f4d5e2d670ee304",
+    "availability": 34
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Chennai",
+    "date": "2021-02-04",
+    "price": 600,
+    "id": "71f56fbf9fc24b77a168cbcbe201f2c0",
+    "availability": 98
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Chennai",
+    "date": "2021-02-04",
+    "price": 700,
+    "id": "eac9eef44e2f0f3223ac2356b8bbb520",
+    "availability": 32
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model Y",
+    "location": "Bangalore",
+    "date": "2021-02-04",
+    "price": 900,
+    "id": "d53b86ee7a77a0cf30962ea8b319d4a8",
+    "availability": 93
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-04",
+    "price": 500,
+    "id": "835d65baa76d475b42c3debe52c852cb",
+    "availability": 79
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Bangalore",
+    "date": "2021-02-04",
+    "price": 800,
+    "id": "71b5433a03473d22d090c058ddaf260b",
+    "availability": 88
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Bangalore",
+    "date": "2021-02-04",
+    "price": 500,
+    "id": "978ea1038b945ea97224af0fd0d7d5ec",
+    "availability": 64
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-04",
+    "price": 600,
+    "id": "33117fe489bbc082a866b47060619a1c",
+    "availability": 44
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-04",
+    "price": 900,
+    "id": "c34f1035f7492f92dcad5da120d84b8a",
+    "availability": 12
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-04",
+    "price": 700,
+    "id": "0fd3c86ecaf6c2032f94961171df5b56",
+    "availability": 62
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Delhi",
+    "date": "2021-02-04",
+    "price": 500,
+    "id": "28adba7d531651a59827de22ab19096a",
+    "availability": 41
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Mumbai",
+    "date": "2021-02-04",
+    "price": 800,
+    "id": "2c55e18e631c5ed931ced26883994353",
+    "availability": 34
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Delhi",
+    "date": "2021-02-04",
+    "price": 600,
+    "id": "4d03aaec457dbcdf50b9907af5e22624",
+    "availability": 46
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Chennai",
+    "date": "2021-02-04",
+    "price": 500,
+    "id": "5d4b439e31e60e3f021c0d42902ff8d2",
+    "availability": 33
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-04",
+    "price": 600,
+    "id": "17bca25a28ec0a13da72b7636106aab2",
+    "availability": 76
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-04",
+    "price": 600,
+    "id": "3e5607238a2d731c39326c251ccdd3c4",
+    "availability": 47
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Mumbai",
+    "date": "2021-02-04",
+    "price": 600,
+    "id": "5f94e50529ba391a3276eebeb0fed833",
+    "availability": 9
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-04",
+    "price": 600,
+    "id": "c82f2212953f90f7d59be8b4acad00f8",
+    "availability": 60
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Mumbai",
+    "date": "2021-02-04",
+    "price": 600,
+    "id": "7893330c8a6c4f7ffbc841b9ae098df9",
+    "availability": 99
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Delhi",
+    "date": "2021-02-04",
+    "price": 500,
+    "id": "dea7919f7a4e1ecf30f416f15fa5376f",
+    "availability": 80
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-04",
+    "price": 700,
+    "id": "3e9b3c7a56e3c7a8177458573d0eb029",
+    "availability": 41
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-05",
+    "price": 900,
+    "id": "cdf47a571861be0887d1074939d3b5b5",
+    "availability": 32
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-05",
+    "price": 800,
+    "id": "bfd1950b91084202c13d3b2273c80c5f",
+    "availability": 21
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-05",
+    "price": 600,
+    "id": "5b4d23f4f7e8d3a88680749eade5cc1b",
+    "availability": 14
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Bangalore",
+    "date": "2021-02-05",
+    "price": 800,
+    "id": "6f9b4fd71fc5b36e9544e8c19bd45233",
+    "availability": 43
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-05",
+    "price": 900,
+    "id": "fd25c9b17d4ce2775412ce0538a67c5f",
+    "availability": 60
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Bangalore",
+    "date": "2021-02-05",
+    "price": 900,
+    "id": "c91137bdb09669d522213fdd26dfe7b2",
+    "availability": 90
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Mumbai",
+    "date": "2021-02-05",
+    "price": 500,
+    "id": "dbdf234143bb58e7745af5425e146e6e",
+    "availability": 2
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-05",
+    "price": 700,
+    "id": "1e941ff52eed705c7532a782c6562e6b",
+    "availability": 79
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Delhi",
+    "date": "2021-02-05",
+    "price": 700,
+    "id": "fc1251c43b4bcf38c1c0756baadb5ba8",
+    "availability": 7
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-05",
+    "price": 600,
+    "id": "7445e6b62aba862e6dfb37668ab489ce",
+    "availability": 63
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-05",
+    "price": 800,
+    "id": "24cd9bd2149245ac69a5d05a0461db41",
+    "availability": 22
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model Y",
+    "location": "Delhi",
+    "date": "2021-02-05",
+    "price": 500,
+    "id": "1f8f360e833c06869d9ffeee091f162c",
+    "availability": 11
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Bangalore",
+    "date": "2021-02-05",
+    "price": 900,
+    "id": "b08c1696f8b829caea52128ea6b243bf",
+    "availability": 65
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Delhi",
+    "date": "2021-02-05",
+    "price": 500,
+    "id": "e1c52b86e6576c04431187a1df988d90",
+    "availability": 2
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-05",
+    "price": 800,
+    "id": "407f54bb67b6b0ba98b9de61f4453b1f",
+    "availability": 43
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Mumbai",
+    "date": "2021-02-05",
+    "price": 900,
+    "id": "6eb1e8f0095a048c6f764ea7c076b9f6",
+    "availability": 81
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model Y",
+    "location": "Delhi",
+    "date": "2021-02-05",
+    "price": 500,
+    "id": "318dd1e10c2bd29d90b6edeacfffe4aa",
+    "availability": 48
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Chennai",
+    "date": "2021-02-05",
+    "price": 800,
+    "id": "a398782c893e6aae22a4345029d90bcd",
+    "availability": 70
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-05",
+    "price": 700,
+    "id": "76a7483efb8c0676f65e5c1f95d574b8",
+    "availability": 43
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-05",
+    "price": 900,
+    "id": "a39ce25e97fc0b42f31d330b6707b860",
+    "availability": 63
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Bangalore",
+    "date": "2021-02-06",
+    "price": 500,
+    "id": "2e1e1e7d9accd48b0cf8ce033c5bfaf3",
+    "availability": 67
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-06",
+    "price": 500,
+    "id": "2c6c025a348be56a2764da14510717c9",
+    "availability": 12
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Bangalore",
+    "date": "2021-02-06",
+    "price": 800,
+    "id": "963c8e992994c0223d83aa77160e618d",
+    "availability": 56
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-06",
+    "price": 500,
+    "id": "fd05734eb7b7dcf6f1eba359924691cb",
+    "availability": 4
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-06",
+    "price": 700,
+    "id": "807f2496a7bb4207ee30a78fbff2d9fb",
+    "availability": 33
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Bangalore",
+    "date": "2021-02-06",
+    "price": 800,
+    "id": "164c519a07f65d66c8af27b6a5c44d3e",
+    "availability": 49
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-06",
+    "price": 800,
+    "id": "2581f4f422c8786bd6a3c4782064430e",
+    "availability": 70
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model S",
+    "location": "Bangalore",
+    "date": "2021-02-06",
+    "price": 900,
+    "id": "4fa43ac863d03d2dca27afaa7cedf916",
+    "availability": 99
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-06",
+    "price": 900,
+    "id": "b2b43fb1d5664c25d0a4a6b3e729c1ac",
+    "availability": 94
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-06",
+    "price": 500,
+    "id": "1fbfa977c9a87bb096b8f98f94ccdb73",
+    "availability": 37
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model S",
+    "location": "Mumbai",
+    "date": "2021-02-06",
+    "price": 900,
+    "id": "636b8ec54a20326262aafb79b31cf958",
+    "availability": 24
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Chennai",
+    "date": "2021-02-06",
+    "price": 800,
+    "id": "c93c2e80c5a1ca94941622e1e0411c6a",
+    "availability": 13
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-06",
+    "price": 800,
+    "id": "ed2c9bd759fd1e88b0c1790626983998",
+    "availability": 26
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-06",
+    "price": 700,
+    "id": "ff37d6e024861c325a72e6a2857b7ff1",
+    "availability": 67
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-06",
+    "price": 600,
+    "id": "98270703e8a0860b3ce2948eab3b7809",
+    "availability": 99
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-06",
+    "price": 700,
+    "id": "083447ba8439bc56ff6337e82d532a45",
+    "availability": 43
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-06",
+    "price": 800,
+    "id": "07dd57305301087be5f06b190eea9a3b",
+    "availability": 34
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-06",
+    "price": 500,
+    "id": "7bb252be49d05cde70d606ac337322f2",
+    "availability": 47
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-06",
+    "price": 500,
+    "id": "bcb70e852010f07126d9dcb04463bb64",
+    "availability": 16
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-06",
+    "price": 600,
+    "id": "8aba93fda5fbdbce19601d344364446b",
+    "availability": 41
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-07",
+    "price": 500,
+    "id": "ddec6d0ef9e56b9e633be7194b2ce739",
+    "availability": 59
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model Y",
+    "location": "Delhi",
+    "date": "2021-02-07",
+    "price": 800,
+    "id": "93a192bfcc96fc24f13fab2c1f6245e5",
+    "availability": 38
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Delhi",
+    "date": "2021-02-07",
+    "price": 500,
+    "id": "1cf645961640424c0795af37d042e5ba",
+    "availability": 29
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Delhi",
+    "date": "2021-02-07",
+    "price": 600,
+    "id": "a07ce6f4f9741cc0743a63befe27de49",
+    "availability": 66
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model Y",
+    "location": "Delhi",
+    "date": "2021-02-07",
+    "price": 500,
+    "id": "fdabc97645baf0c4aeadf189ad05632f",
+    "availability": 68
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Delhi",
+    "date": "2021-02-07",
+    "price": 500,
+    "id": "b6be69660203bb18c3deb89df3551c11",
+    "availability": 65
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Mumbai",
+    "date": "2021-02-07",
+    "price": 800,
+    "id": "31f498168ea63e04643f8f7a430726f1",
+    "availability": 45
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-07",
+    "price": 900,
+    "id": "5d0d24ff5275d1c5ac2acc097c58f48b",
+    "availability": 69
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-07",
+    "price": 500,
+    "id": "ce831c70df9e4859f198c5bf7f3943b0",
+    "availability": 82
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-07",
+    "price": 800,
+    "id": "ecc4ce658d1f74a868dc6e158a291155",
+    "availability": 99
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-07",
+    "price": 900,
+    "id": "b47496c290e0cf9dcdc2b538da32ce35",
+    "availability": 8
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Chennai",
+    "date": "2021-02-07",
+    "price": 700,
+    "id": "a339178ff04e27a9ca935b144baa30a7",
+    "availability": 26
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Chennai",
+    "date": "2021-02-07",
+    "price": 700,
+    "id": "fdc0df9a75d7f9c10c4c6175c2e490b7",
+    "availability": 32
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-07",
+    "price": 700,
+    "id": "c84d175680eaad45647e108fa0a1e565",
+    "availability": 91
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Chennai",
+    "date": "2021-02-07",
+    "price": 500,
+    "id": "81cc47a58b19f3ad2a43a2edeb9422b0",
+    "availability": 55
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Delhi",
+    "date": "2021-02-07",
+    "price": 800,
+    "id": "33a22b832ec61b71627a50e5201c7050",
+    "availability": 18
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Chennai",
+    "date": "2021-02-07",
+    "price": 700,
+    "id": "f348b727e8ef23fa0034e41835b5ae92",
+    "availability": 69
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Bangalore",
+    "date": "2021-02-07",
+    "price": 500,
+    "id": "ed1910d5681f3bd722a83cce1652e498",
+    "availability": 85
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-07",
+    "price": 600,
+    "id": "1abbefdc32c24504f3ef8bc69b5f8306",
+    "availability": 2
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Chennai",
+    "date": "2021-02-07",
+    "price": 900,
+    "id": "e34c776793827ea623c69f36d52cc010",
+    "availability": 79
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Chennai",
+    "date": "2021-02-08",
+    "price": 600,
+    "id": "75871f05604aff65c5150bd3a33555fc",
+    "availability": 94
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Delhi",
+    "date": "2021-02-08",
+    "price": 700,
+    "id": "aa04fcb18c7d6634d524607e556a6d22",
+    "availability": 3
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model S",
+    "location": "Mumbai",
+    "date": "2021-02-08",
+    "price": 600,
+    "id": "2bdff1966c9aad71620c8c22776b2572",
+    "availability": 43
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Bangalore",
+    "date": "2021-02-08",
+    "price": 700,
+    "id": "26938cc62610fb5a03cf0dc4fa5cc2b0",
+    "availability": 38
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model S",
+    "location": "Mumbai",
+    "date": "2021-02-08",
+    "price": 800,
+    "id": "0698aab848afdc0f6e0becd23488fd5d",
+    "availability": 21
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-08",
+    "price": 900,
+    "id": "0ffd86677b7a62051bca4d07fb7fa107",
+    "availability": 96
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-08",
+    "price": 900,
+    "id": "5452e65b33eff1d8d9add6d4a0d8f4b5",
+    "availability": 62
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-08",
+    "price": 900,
+    "id": "5ddb280aecb6c4e3e2a5ee89b157ce22",
+    "availability": 58
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-08",
+    "price": 500,
+    "id": "313665025bd2750c0057522f1a207b4e",
+    "availability": 14
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-08",
+    "price": 500,
+    "id": "925e28701348d3209af510103857ad48",
+    "availability": 94
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-08",
+    "price": 900,
+    "id": "530dd779f62b3c69984a7364cd1fd045",
+    "availability": 52
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Chennai",
+    "date": "2021-02-08",
+    "price": 800,
+    "id": "e37827a261e6b1d9613ce5075b45b7b1",
+    "availability": 32
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Delhi",
+    "date": "2021-02-08",
+    "price": 900,
+    "id": "cd81b646048bf9708cae1dfdf6c8810e",
+    "availability": 12
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Chennai",
+    "date": "2021-02-08",
+    "price": 700,
+    "id": "ebf81902809c364533aa6fca9140a620",
+    "availability": 78
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-08",
+    "price": 700,
+    "id": "b540a942e475047e3767958e8788ce46",
+    "availability": 47
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Bangalore",
+    "date": "2021-02-08",
+    "price": 500,
+    "id": "8a73f97df7e6b92e03450043d02048f0",
+    "availability": 32
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-08",
+    "price": 800,
+    "id": "fcc3f60b1d37ad7b5b99e18d4b6b5500",
+    "availability": 58
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-08",
+    "price": 800,
+    "id": "19a4a5acebe31224c18d9844f7d92e7f",
+    "availability": 0
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-08",
+    "price": 900,
+    "id": "d8e5dded0d368f33d5c95eebd65eb743",
+    "availability": 36
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-08",
+    "price": 900,
+    "id": "6bc2e990d8fd3b3b811ec3e4f807c976",
+    "availability": 39
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-09",
+    "price": 600,
+    "id": "e42b2bd184fc366b949edf81ee6a822c",
+    "availability": 10
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-09",
+    "price": 500,
+    "id": "9db0bf34be7c881eb7d57588e1ced3d9",
+    "availability": 28
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Bangalore",
+    "date": "2021-02-09",
+    "price": 900,
+    "id": "f794427509dcc850012218746196b9c4",
+    "availability": 63
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-09",
+    "price": 900,
+    "id": "0c78d4a3d2ccfa641db2265566a2cb85",
+    "availability": 19
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Chennai",
+    "date": "2021-02-09",
+    "price": 800,
+    "id": "df0c4c0c1bc1c839023e4be7ee442f8a",
+    "availability": 6
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-09",
+    "price": 700,
+    "id": "accccdf02c9456f53279d39eeee52e88",
+    "availability": 92
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-09",
+    "price": 900,
+    "id": "5323b6ece71702e283daa4db79d3bef6",
+    "availability": 8
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-09",
+    "price": 600,
+    "id": "492c83d27a0b9e7487f55e8610b78dac",
+    "availability": 67
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-09",
+    "price": 600,
+    "id": "9ee7084735a8e470c569fa59257fe91c",
+    "availability": 83
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-09",
+    "price": 500,
+    "id": "96a764f743168dc5882a6186fc553fdd",
+    "availability": 80
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Chennai",
+    "date": "2021-02-09",
+    "price": 700,
+    "id": "ce369b612a915a58d9bf4f78190013cd",
+    "availability": 18
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-09",
+    "price": 700,
+    "id": "d29d712c507e5b6f791b8d1b06bc0e21",
+    "availability": 92
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-09",
+    "price": 600,
+    "id": "91442f2d827e3f381bf08f54a5c389e2",
+    "availability": 21
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model S",
+    "location": "Delhi",
+    "date": "2021-02-09",
+    "price": 500,
+    "id": "d7880bc653bdf0b1fee356e838c0e290",
+    "availability": 20
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Delhi",
+    "date": "2021-02-09",
+    "price": 700,
+    "id": "cde0c7c9e389b686b1802969549ad294",
+    "availability": 14
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-09",
+    "price": 900,
+    "id": "1e4750029f2510b116a94cda25b53451",
+    "availability": 51
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Delhi",
+    "date": "2021-02-09",
+    "price": 700,
+    "id": "8566351f3d8cc122ddf6c91a4102b5d1",
+    "availability": 85
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Chennai",
+    "date": "2021-02-09",
+    "price": 500,
+    "id": "e9335d74996c7d4a74235e6e4a2c7fa1",
+    "availability": 97
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Chennai",
+    "date": "2021-02-09",
+    "price": 600,
+    "id": "9b85a4578a7fb6798c27417c42939ba9",
+    "availability": 53
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model S",
+    "location": "Chennai",
+    "date": "2021-02-09",
+    "price": 700,
+    "id": "31318889653a02d0764983d1897ea1f6",
+    "availability": 75
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Delhi",
+    "date": "2021-02-10",
+    "price": 800,
+    "id": "d5742a0185dede3832fe8c19ec3e02b0",
+    "availability": 23
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-10",
+    "price": 900,
+    "id": "d4aaac2b4c802c1be85eab12defec14d",
+    "availability": 12
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Delhi",
+    "date": "2021-02-10",
+    "price": 800,
+    "id": "845fe6a24b085ae568cce9bdbfe1480a",
+    "availability": 33
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-10",
+    "price": 800,
+    "id": "9b6690f97f7f58fe35378aabf2690236",
+    "availability": 14
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-10",
+    "price": 900,
+    "id": "f1272244102276e7598365d4d7ea732a",
+    "availability": 90
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model S",
+    "location": "Delhi",
+    "date": "2021-02-10",
+    "price": 500,
+    "id": "65c311b7dee8cad7ae289904b3294dc9",
+    "availability": 66
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Delhi",
+    "date": "2021-02-10",
+    "price": 900,
+    "id": "f912d859e760cd2375f31723243fb667",
+    "availability": 93
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model S",
+    "location": "Chennai",
+    "date": "2021-02-10",
+    "price": 500,
+    "id": "a89731093e2c6a0321f5ca587333b685",
+    "availability": 79
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-10",
+    "price": 600,
+    "id": "1c0636c939c0b447e7f9b2d0bcec6664",
+    "availability": 70
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Chennai",
+    "date": "2021-02-10",
+    "price": 700,
+    "id": "4096e5d21d650778e0545af3f5e4c6d4",
+    "availability": 9
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-10",
+    "price": 900,
+    "id": "cca6b24959144e46d08eeb81f6e9396d",
+    "availability": 48
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Chennai",
+    "date": "2021-02-10",
+    "price": 900,
+    "id": "f81cb7d7e6fa18124f609cdb8eabd0ac",
+    "availability": 73
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-10",
+    "price": 700,
+    "id": "e435b2b29010556810620636c0084192",
+    "availability": 41
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-10",
+    "price": 900,
+    "id": "846b42ad0b9b9d4450c24a9fcee4ed20",
+    "availability": 84
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-10",
+    "price": 700,
+    "id": "4b8a369c7a6c1a5a5327dd90f3258dfb",
+    "availability": 45
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Delhi",
+    "date": "2021-02-10",
+    "price": 600,
+    "id": "89bc98f89ef192ca641fc9541d55e75e",
+    "availability": 84
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Mumbai",
+    "date": "2021-02-10",
+    "price": 600,
+    "id": "74ca8650a1189188eb55bd03a4d7fb25",
+    "availability": 1
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-10",
+    "price": 600,
+    "id": "c6fc108797f1a8f98cecebdfd15db661",
+    "availability": 57
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-10",
+    "price": 700,
+    "id": "f6b9adc28386f922ca2ed5e6011268a6",
+    "availability": 27
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Mumbai",
+    "date": "2021-02-10",
+    "price": 600,
+    "id": "5939162fa7954ab7ada3e511f5517d8a",
+    "availability": 94
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Bangalore",
+    "date": "2021-02-11",
+    "price": 500,
+    "id": "9f5c4168a40425fa80e96b15ca81ec3c",
+    "availability": 40
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Delhi",
+    "date": "2021-02-11",
+    "price": 700,
+    "id": "de21d5eb0dbd0e54d14e42527f1cd62f",
+    "availability": 77
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Mumbai",
+    "date": "2021-02-11",
+    "price": 500,
+    "id": "c9ef5c5404d665e6e8a65f9dc1333065",
+    "availability": 82
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-11",
+    "price": 500,
+    "id": "3b355c52fd979507441897615f3045fe",
+    "availability": 74
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-11",
+    "price": 900,
+    "id": "4f528f436258813c769d6d81bbbcc09a",
+    "availability": 12
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-11",
+    "price": 900,
+    "id": "ffacfd8d4adf88af3aafd912ceabfb18",
+    "availability": 50
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-11",
+    "price": 900,
+    "id": "53acfd58bfc81d3c59bbe0c2a8addda1",
+    "availability": 1
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-11",
+    "price": 500,
+    "id": "e5ff5e8c9d5f5894682ed4db3616378c",
+    "availability": 76
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-11",
+    "price": 900,
+    "id": "272ce1fd32dd3452e3219ba15dd1362d",
+    "availability": 80
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Chennai",
+    "date": "2021-02-11",
+    "price": 600,
+    "id": "5ffd6394f3704dc960ab74c8da51eb32",
+    "availability": 43
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Chennai",
+    "date": "2021-02-11",
+    "price": 900,
+    "id": "a8f2386492a1f5c513b49ef58c39d40f",
+    "availability": 91
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Chennai",
+    "date": "2021-02-11",
+    "price": 900,
+    "id": "6aaade39fa5fe7a673f0f4e6ae5843f7",
+    "availability": 89
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Mumbai",
+    "date": "2021-02-11",
+    "price": 900,
+    "id": "4ff2ccf2dd83692b52145814e88f39b1",
+    "availability": 28
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Bangalore",
+    "date": "2021-02-11",
+    "price": 600,
+    "id": "6c03af6d6d006de70a97bbf2ccae4748",
+    "availability": 49
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Mumbai",
+    "date": "2021-02-11",
+    "price": 800,
+    "id": "76b4f1bfd84f26cdaee205fe2f5abcf4",
+    "availability": 56
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-11",
+    "price": 600,
+    "id": "dac823a77df24e02222f1bafffac59b4",
+    "availability": 90
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Mumbai",
+    "date": "2021-02-11",
+    "price": 900,
+    "id": "57d2a65de8268771555d4d9178f1469b",
+    "availability": 56
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-11",
+    "price": 600,
+    "id": "001d08fd5b77ce0f2a70269fecbe3235",
+    "availability": 49
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model Y",
+    "location": "Chennai",
+    "date": "2021-02-11",
+    "price": 600,
+    "id": "f7669628d486ddd567a5cbf3bc0533b9",
+    "availability": 26
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-11",
+    "price": 700,
+    "id": "65a3d7af5da57e5340428330b3f34b58",
+    "availability": 82
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-12",
+    "price": 600,
+    "id": "f9d91ce738347188cc48d8ae1b6fe030",
+    "availability": 52
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-12",
+    "price": 900,
+    "id": "b318f72c2d001703a2ef4b6b1e13cf23",
+    "availability": 49
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Mumbai",
+    "date": "2021-02-12",
+    "price": 900,
+    "id": "2cfab447adafd9c6a3475e33d31d5717",
+    "availability": 45
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-12",
+    "price": 500,
+    "id": "908a1f75928d49d0d1ce987e16ef3987",
+    "availability": 49
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Delhi",
+    "date": "2021-02-12",
+    "price": 500,
+    "id": "5fb3adc52a39b7debbdcbf506415811d",
+    "availability": 94
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Chennai",
+    "date": "2021-02-12",
+    "price": 900,
+    "id": "a1d97ca72e6afe8383f53fb72c85341b",
+    "availability": 56
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Bangalore",
+    "date": "2021-02-12",
+    "price": 600,
+    "id": "6a43364af6af09aa50ae07668b5d299c",
+    "availability": 7
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Delhi",
+    "date": "2021-02-12",
+    "price": 500,
+    "id": "5a86a6b2ad7ecf27a54b5b410f33b4d1",
+    "availability": 82
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-12",
+    "price": 900,
+    "id": "557c4714a0e9e36787e1c571ee2c546f",
+    "availability": 54
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Delhi",
+    "date": "2021-02-12",
+    "price": 900,
+    "id": "fbb26ec6efba2fa1b7b916785af897d6",
+    "availability": 10
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model S",
+    "location": "Mumbai",
+    "date": "2021-02-12",
+    "price": 900,
+    "id": "2c133cafed7559be921481be614ae6ab",
+    "availability": 24
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Bangalore",
+    "date": "2021-02-12",
+    "price": 800,
+    "id": "c5512f83641d0e30c8f0113454ad82ae",
+    "availability": 96
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-12",
+    "price": 600,
+    "id": "ab043f99bb9ba6b8ac3f41c904a6acf2",
+    "availability": 58
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Bangalore",
+    "date": "2021-02-12",
+    "price": 600,
+    "id": "702ee6ae8ff88b793d337eff1fab9951",
+    "availability": 53
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-12",
+    "price": 800,
+    "id": "1c0126abd3126b2d8fa82049eabbc43a",
+    "availability": 51
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Delhi",
+    "date": "2021-02-12",
+    "price": 500,
+    "id": "de401f624d8706382c452c8501a61cf1",
+    "availability": 30
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-12",
+    "price": 700,
+    "id": "9c2934cd7359f36bdad977d3250cf341",
+    "availability": 76
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-12",
+    "price": 800,
+    "id": "af6b0c190c36bb55c8072a5e1ef9982a",
+    "availability": 66
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-12",
+    "price": 500,
+    "id": "1423b7a9bcd93e8fcc3a423e4aee80a9",
+    "availability": 84
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-12",
+    "price": 800,
+    "id": "204bd0fbfdacc86d2ef2b059c0dcb097",
+    "availability": 62
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model S",
+    "location": "Bangalore",
+    "date": "2021-02-13",
+    "price": 900,
+    "id": "7deaf03e16127b7986a65a0b4a281857",
+    "availability": 17
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Bangalore",
+    "date": "2021-02-13",
+    "price": 700,
+    "id": "5901518ec3b97405fcdda8ae972364ff",
+    "availability": 67
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-13",
+    "price": 500,
+    "id": "000f418f485d0e98e3705e16a27d2e8c",
+    "availability": 55
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Bangalore",
+    "date": "2021-02-13",
+    "price": 500,
+    "id": "127b6fdbdbd192cda6bc66a280a4e828",
+    "availability": 83
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-13",
+    "price": 800,
+    "id": "25f3a98d435f8bfe35909b75f0e5f549",
+    "availability": 2
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-13",
+    "price": 800,
+    "id": "fac8e330c26bc66c2855ea48c723bf81",
+    "availability": 90
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-13",
+    "price": 900,
+    "id": "1a83e2060a518e2282529817dcde471e",
+    "availability": 42
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Bangalore",
+    "date": "2021-02-13",
+    "price": 600,
+    "id": "98f110835eceade716bbe3365378b773",
+    "availability": 80
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Chennai",
+    "date": "2021-02-13",
+    "price": 600,
+    "id": "5667fbbe8fe1606dd98b324188688f21",
+    "availability": 98
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Chennai",
+    "date": "2021-02-13",
+    "price": 800,
+    "id": "e4a62bbde465bdd860f90255645733ac",
+    "availability": 41
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-13",
+    "price": 500,
+    "id": "5442451e782bb871a0c72ca544bcf595",
+    "availability": 17
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Chennai",
+    "date": "2021-02-13",
+    "price": 500,
+    "id": "b94a4e3ef2cadb6413c3dfc30b1ff009",
+    "availability": 92
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-13",
+    "price": 900,
+    "id": "b9f083b1e81b75687fb5f6cfa8cbaf20",
+    "availability": 60
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Chennai",
+    "date": "2021-02-13",
+    "price": 500,
+    "id": "045531609728ea02a2b261bf11cf56bd",
+    "availability": 10
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model Y",
+    "location": "Bangalore",
+    "date": "2021-02-13",
+    "price": 900,
+    "id": "5bb4edc80ba59a80268fd1adbcba192b",
+    "availability": 64
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Chennai",
+    "date": "2021-02-13",
+    "price": 600,
+    "id": "aa079a39b2c0187833ca3d8104dbd207",
+    "availability": 27
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-13",
+    "price": 500,
+    "id": "243caa1313e0206ee0cb22de290c34ae",
+    "availability": 65
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-13",
+    "price": 600,
+    "id": "1c1f622f7ba0d00815db330712c04518",
+    "availability": 32
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-13",
+    "price": 600,
+    "id": "53b4329a865f798a4b3f9bacaac233d4",
+    "availability": 15
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-13",
+    "price": 700,
+    "id": "c1180954368b1c749aa51541332d829b",
+    "availability": 22
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Bangalore",
+    "date": "2021-02-14",
+    "price": 900,
+    "id": "336d6f07987ebae0be39498be1cc9acd",
+    "availability": 64
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Bangalore",
+    "date": "2021-02-14",
+    "price": 900,
+    "id": "21786a2b16fbf13caf7ea2645bc7f8b0",
+    "availability": 68
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Delhi",
+    "date": "2021-02-14",
+    "price": 600,
+    "id": "9871d98c7c263ddbec608798df086c86",
+    "availability": 20
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-14",
+    "price": 500,
+    "id": "9a2e3fd66f7ef51198b4be64776bc04d",
+    "availability": 15
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Mumbai",
+    "date": "2021-02-14",
+    "price": 700,
+    "id": "23696023604e39c1c7c17d6a43ccc26b",
+    "availability": 62
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-14",
+    "price": 900,
+    "id": "dd9d044c94c59d66952199637426af77",
+    "availability": 36
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-14",
+    "price": 600,
+    "id": "7665d72d9b8943fb16e22abe684ca14f",
+    "availability": 66
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Mumbai",
+    "date": "2021-02-14",
+    "price": 500,
+    "id": "beb38ea75eb8d13c48715c2a1eef75e8",
+    "availability": 25
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Bangalore",
+    "date": "2021-02-14",
+    "price": 900,
+    "id": "56f02c02e851706c17d228534c1f8149",
+    "availability": 81
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Delhi",
+    "date": "2021-02-14",
+    "price": 500,
+    "id": "4857a6987fca78ba710dc5cdc0b1117b",
+    "availability": 33
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Delhi",
+    "date": "2021-02-14",
+    "price": 700,
+    "id": "e60d18ec8bb0364a02bdcb8e9e04ab58",
+    "availability": 47
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Delhi",
+    "date": "2021-02-14",
+    "price": 700,
+    "id": "59f6a2cd8697ce56527b87fd830ef198",
+    "availability": 15
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Delhi",
+    "date": "2021-02-14",
+    "price": 800,
+    "id": "09d9336ff9141d7863a60f482c7494f0",
+    "availability": 57
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model S",
+    "location": "Delhi",
+    "date": "2021-02-14",
+    "price": 600,
+    "id": "0025fd23d61bacf29bce3d569ef17170",
+    "availability": 47
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Bangalore",
+    "date": "2021-02-14",
+    "price": 700,
+    "id": "53cf6e142daef8c7589d0addb432d635",
+    "availability": 81
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-14",
+    "price": 900,
+    "id": "f2280db86fe4607a1e7b41fac391a09c",
+    "availability": 17
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Delhi",
+    "date": "2021-02-14",
+    "price": 600,
+    "id": "a224e9d822dd0656f09bfaf2d1225e27",
+    "availability": 24
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-14",
+    "price": 800,
+    "id": "9496accd9c7504dc713fb4ead0b7b476",
+    "availability": 77
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-14",
+    "price": 900,
+    "id": "c337432f540197b00d24a9b782df9e27",
+    "availability": 78
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Chennai",
+    "date": "2021-02-14",
+    "price": 500,
+    "id": "ade6e9b8266829d630ab9022d4c9c71a",
+    "availability": 23
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Chennai",
+    "date": "2021-02-15",
+    "price": 600,
+    "id": "bc18faa9e9ef21f26b94e580a4c1ce07",
+    "availability": 91
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Mumbai",
+    "date": "2021-02-15",
+    "price": 800,
+    "id": "f90279917801e047f00f856ccafaea28",
+    "availability": 5
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-15",
+    "price": 900,
+    "id": "cce3c47ac6ce7c02e8417d67ea7cbb21",
+    "availability": 5
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-15",
+    "price": 500,
+    "id": "7c187edd1063f2cbc8887ee3e653f5cc",
+    "availability": 87
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Chennai",
+    "date": "2021-02-15",
+    "price": 500,
+    "id": "9ab451d74d8d87657e1218f71e2f3446",
+    "availability": 69
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-15",
+    "price": 500,
+    "id": "fee22733b6aec245ada07c3fb6775c6d",
+    "availability": 30
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-15",
+    "price": 500,
+    "id": "defd874a8e52b222a458234bb2f5be97",
+    "availability": 91
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-15",
+    "price": 800,
+    "id": "aaaa8f29ea10fd31c4a727274e339683",
+    "availability": 87
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-15",
+    "price": 900,
+    "id": "c7b7afec0e9559456889cc8270f0582f",
+    "availability": 14
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-15",
+    "price": 900,
+    "id": "f0da0f9b1f59a860ec0aeb21e5088172",
+    "availability": 0
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Chennai",
+    "date": "2021-02-15",
+    "price": 600,
+    "id": "7b58589980765458e14c7aa4b05d48db",
+    "availability": 24
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model S",
+    "location": "Delhi",
+    "date": "2021-02-15",
+    "price": 500,
+    "id": "fe378f7b514bfe150bba6f1e0f5e4923",
+    "availability": 65
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-15",
+    "price": 600,
+    "id": "f96a6915dba0620a058ba756e4c433b9",
+    "availability": 89
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model Y",
+    "location": "Delhi",
+    "date": "2021-02-15",
+    "price": 600,
+    "id": "7c0304baf6af7aacff4855adb3df49b7",
+    "availability": 76
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Bangalore",
+    "date": "2021-02-15",
+    "price": 700,
+    "id": "ff75cbe9eacfcaa3ae38b8bf2acf3695",
+    "availability": 65
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-15",
+    "price": 500,
+    "id": "bd2d64a9963eba9c417fcaed8575e01b",
+    "availability": 88
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Delhi",
+    "date": "2021-02-15",
+    "price": 700,
+    "id": "92683f724294a707c0c273358e24ef25",
+    "availability": 62
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Delhi",
+    "date": "2021-02-15",
+    "price": 900,
+    "id": "8856107597aaaf8ffc2ae16d37d2982e",
+    "availability": 49
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-15",
+    "price": 600,
+    "id": "eb0f03f7e245d67010ea2880129c25ee",
+    "availability": 70
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-15",
+    "price": 600,
+    "id": "393054561ee36ed228ca29540044e449",
+    "availability": 86
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Mumbai",
+    "date": "2021-02-16",
+    "price": 900,
+    "id": "af53cc2c3d8a9f47f5bc2ec51a2e2804",
+    "availability": 33
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-16",
+    "price": 800,
+    "id": "e892b67cc0198c264c6569518da2e915",
+    "availability": 17
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-16",
+    "price": 700,
+    "id": "3659225b739f579ecbea03183c1714af",
+    "availability": 7
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Delhi",
+    "date": "2021-02-16",
+    "price": 700,
+    "id": "8b7be53f2fcae923eb18c0bfe04493af",
+    "availability": 93
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Delhi",
+    "date": "2021-02-16",
+    "price": 700,
+    "id": "7247d4985a6091ef0db878a92a159ac5",
+    "availability": 2
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-16",
+    "price": 700,
+    "id": "8a0a3ce1df90ca5b6e16893bc4ad339a",
+    "availability": 100
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-16",
+    "price": 600,
+    "id": "5aa8b8c3145dfc2da9520961af9d0411",
+    "availability": 17
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-16",
+    "price": 900,
+    "id": "decd27d61e32279323d9696214c70327",
+    "availability": 10
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Mumbai",
+    "date": "2021-02-16",
+    "price": 900,
+    "id": "1f058db4e6d2647ca28adf6c5ad56853",
+    "availability": 61
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-16",
+    "price": 800,
+    "id": "475fe790737d43a5eba2e62164379acc",
+    "availability": 53
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Chennai",
+    "date": "2021-02-16",
+    "price": 500,
+    "id": "9b94132d53be49131f1869dddb19be33",
+    "availability": 72
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-16",
+    "price": 700,
+    "id": "48121524ee1ad51d4caa37b2fdbad502",
+    "availability": 44
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-16",
+    "price": 700,
+    "id": "62af2ef887893ab1e6bcef6930ae5034",
+    "availability": 86
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-16",
+    "price": 800,
+    "id": "852222327b7fb8345be64d22aca58d0e",
+    "availability": 58
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-16",
+    "price": 900,
+    "id": "007f79445b87920877751677007b917d",
+    "availability": 14
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Delhi",
+    "date": "2021-02-16",
+    "price": 600,
+    "id": "d311b0f8a1c4df90b8c7c34741494518",
+    "availability": 90
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Bangalore",
+    "date": "2021-02-16",
+    "price": 900,
+    "id": "ce1c65e4d260b3306d9adc5242c1d0c8",
+    "availability": 68
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Chennai",
+    "date": "2021-02-16",
+    "price": 500,
+    "id": "23273b6e5b868c156e2c9ed82bb52f3d",
+    "availability": 3
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model S",
+    "location": "Chennai",
+    "date": "2021-02-16",
+    "price": 800,
+    "id": "c586b5239b455856ad403ea0ff3978d9",
+    "availability": 26
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-16",
+    "price": 900,
+    "id": "cc0f1138df7953fc1692d08b419f12ea",
+    "availability": 26
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Chennai",
+    "date": "2021-02-17",
+    "price": 700,
+    "id": "b89b52e74c7af56e42152c9a3c522010",
+    "availability": 95
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-17",
+    "price": 900,
+    "id": "626ed09058292ddec622cbaf22f57a94",
+    "availability": 39
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Delhi",
+    "date": "2021-02-17",
+    "price": 800,
+    "id": "a880194af62e87a698aa50b46e6cbd36",
+    "availability": 57
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Delhi",
+    "date": "2021-02-17",
+    "price": 900,
+    "id": "5e5ae52bd5ea33ad14fd401a60f0fc24",
+    "availability": 84
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Bangalore",
+    "date": "2021-02-17",
+    "price": 700,
+    "id": "e1a4660e25d206ece3de805b33d38966",
+    "availability": 73
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Chennai",
+    "date": "2021-02-17",
+    "price": 800,
+    "id": "ee9c698cbef54d8c3f7e460a1fe780da",
+    "availability": 82
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-17",
+    "price": 600,
+    "id": "542bebb76e027f57b5f2b6bd322dc4a9",
+    "availability": 77
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Delhi",
+    "date": "2021-02-17",
+    "price": 700,
+    "id": "fcd19828686fd5fce94c55a0121db14a",
+    "availability": 97
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-17",
+    "price": 800,
+    "id": "9c7a099ad72957def2a5fadf03fd3498",
+    "availability": 50
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model S",
+    "location": "Bangalore",
+    "date": "2021-02-17",
+    "price": 600,
+    "id": "e009c819ea72b81e85b4e0e3216dc96b",
+    "availability": 17
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Bangalore",
+    "date": "2021-02-17",
+    "price": 500,
+    "id": "b2d3b1eac4d557d85648e2808b7e5905",
+    "availability": 65
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-17",
+    "price": 800,
+    "id": "d937fb781b3fe56cc43de45e51f26290",
+    "availability": 92
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model Y",
+    "location": "Delhi",
+    "date": "2021-02-17",
+    "price": 800,
+    "id": "944815b9199f011993a18d94d827f1d1",
+    "availability": 59
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Bangalore",
+    "date": "2021-02-17",
+    "price": 700,
+    "id": "0537d8df872429275c215f8fbf54a622",
+    "availability": 100
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model S",
+    "location": "Mumbai",
+    "date": "2021-02-17",
+    "price": 900,
+    "id": "2302c2bb75b81fcd2a0c270e828d0b16",
+    "availability": 90
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-17",
+    "price": 500,
+    "id": "f360e276b5ce9060dd6a55bf8497b8fd",
+    "availability": 55
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-17",
+    "price": 600,
+    "id": "af8ee491d04ae4771503654b4bfa952e",
+    "availability": 4
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-17",
+    "price": 900,
+    "id": "1cd78805c89c19f5dbf8b39cc4c46412",
+    "availability": 39
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-17",
+    "price": 700,
+    "id": "55a5305b97ef11680a0485c4e4566abf",
+    "availability": 11
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-17",
+    "price": 700,
+    "id": "1ba36719b6dd66ebd9a9a4afb815065b",
+    "availability": 20
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Chennai",
+    "date": "2021-02-18",
+    "price": 900,
+    "id": "a29ddf466f9fc1a718bc0d2c6b24ef81",
+    "availability": 77
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Delhi",
+    "date": "2021-02-18",
+    "price": 500,
+    "id": "11d9a048397bcf2053f8f1037033ea56",
+    "availability": 96
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model Y",
+    "location": "Delhi",
+    "date": "2021-02-18",
+    "price": 500,
+    "id": "24c4e265b13f9566eb0a14fec038cbf4",
+    "availability": 95
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-18",
+    "price": 500,
+    "id": "7ee62e382c960524dc388ad7372bfbd8",
+    "availability": 26
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Chennai",
+    "date": "2021-02-18",
+    "price": 900,
+    "id": "52484968c8aa7eccf05768c933a8a20a",
+    "availability": 36
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-18",
+    "price": 500,
+    "id": "c03c383ad27f9a9eb89ef3ef57019244",
+    "availability": 100
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-18",
+    "price": 700,
+    "id": "73c189b4146ee3183f0f4093eac22360",
+    "availability": 73
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-18",
+    "price": 900,
+    "id": "23a0c0ec01f5598757370f542f048905",
+    "availability": 87
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model Y",
+    "location": "Bangalore",
+    "date": "2021-02-18",
+    "price": 800,
+    "id": "63f1111079d6303adab836fb7032c520",
+    "availability": 93
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-18",
+    "price": 700,
+    "id": "b1e1528f078fa50aee8b2c688979b84d",
+    "availability": 54
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Chennai",
+    "date": "2021-02-18",
+    "price": 600,
+    "id": "0313d119a00bfe13ee867cacacca17e1",
+    "availability": 21
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model S",
+    "location": "Mumbai",
+    "date": "2021-02-18",
+    "price": 800,
+    "id": "f33686bc25b5b06d6f810065ef0fca4e",
+    "availability": 27
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-18",
+    "price": 700,
+    "id": "253cabfe919879558b12fadc4dd328f0",
+    "availability": 77
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model Y",
+    "location": "Chennai",
+    "date": "2021-02-18",
+    "price": 600,
+    "id": "346994f83ceaddc4d29c2e7b930bb4e7",
+    "availability": 82
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Delhi",
+    "date": "2021-02-18",
+    "price": 900,
+    "id": "f44745a8e3e2366f500f6c964e47cf46",
+    "availability": 77
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Mumbai",
+    "date": "2021-02-18",
+    "price": 800,
+    "id": "7bda67a65c3224a6bab47845eb47b80a",
+    "availability": 16
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-18",
+    "price": 700,
+    "id": "e643072ca601ae4cc17338454731f02a",
+    "availability": 78
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Mumbai",
+    "date": "2021-02-18",
+    "price": 700,
+    "id": "c4812bbf1af851d709154a88586db0b2",
+    "availability": 88
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model Y",
+    "location": "Bangalore",
+    "date": "2021-02-18",
+    "price": 500,
+    "id": "b27a54b865ea7b54d010b72edcf19f1d",
+    "availability": 42
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Chennai",
+    "date": "2021-02-18",
+    "price": 600,
+    "id": "644080ff144fb9313b297481355acec8",
+    "availability": 52
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-19",
+    "price": 800,
+    "id": "77232e794d7a3a9956ee7bf6e9235881",
+    "availability": 17
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-19",
+    "price": 500,
+    "id": "dfd33dc896b43e421a01628acff10fde",
+    "availability": 74
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Bangalore",
+    "date": "2021-02-19",
+    "price": 500,
+    "id": "3be58158cc051ec3b4b88feea99656cc",
+    "availability": 7
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-19",
+    "price": 700,
+    "id": "6990cedfab5d4f1db41bf3de87509b3d",
+    "availability": 31
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Bangalore",
+    "date": "2021-02-19",
+    "price": 900,
+    "id": "d3794667869ae889ac333b4a3bcee9f4",
+    "availability": 17
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Delhi",
+    "date": "2021-02-19",
+    "price": 700,
+    "id": "aa0cf27c0e3c01dac101715f8fe99a56",
+    "availability": 30
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-19",
+    "price": 900,
+    "id": "4baac3daeb58fef507d7b6ffdb8ccb36",
+    "availability": 38
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-19",
+    "price": 700,
+    "id": "87848e61ec556ad86f622c50553b23c8",
+    "availability": 89
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Bangalore",
+    "date": "2021-02-19",
+    "price": 800,
+    "id": "37d7a939f34d421de19e89172c0e6608",
+    "availability": 60
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Delhi",
+    "date": "2021-02-19",
+    "price": 600,
+    "id": "62f0982cc041bc45ab7f0a7603794ec5",
+    "availability": 28
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-19",
+    "price": 900,
+    "id": "1d6f6b9214c855e73215a608dc1d6ec9",
+    "availability": 93
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model S",
+    "location": "Chennai",
+    "date": "2021-02-19",
+    "price": 700,
+    "id": "3bd1a36563dbbd74108a58f73afda747",
+    "availability": 19
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model Y",
+    "location": "Delhi",
+    "date": "2021-02-19",
+    "price": 700,
+    "id": "6ef377aff6f4a098384a6eeb3d082218",
+    "availability": 15
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Bangalore",
+    "date": "2021-02-19",
+    "price": 600,
+    "id": "dc997ab1c39096dd42793ac87ad83bd1",
+    "availability": 55
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Chennai",
+    "date": "2021-02-19",
+    "price": 600,
+    "id": "80dea09814c7f439eb64ae0f7bc0542d",
+    "availability": 69
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-19",
+    "price": 900,
+    "id": "553f544bb16e3dd351608ffed9e2b820",
+    "availability": 91
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model Y",
+    "location": "Delhi",
+    "date": "2021-02-19",
+    "price": 800,
+    "id": "9ec636d2ea35ff4d20400766606ce631",
+    "availability": 62
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-19",
+    "price": 800,
+    "id": "3a601e1efedb6f6d11cb63e840797f3b",
+    "availability": 64
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Bangalore",
+    "date": "2021-02-19",
+    "price": 600,
+    "id": "da87a2d20071f44077ed6bad7b865d55",
+    "availability": 31
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-19",
+    "price": 700,
+    "id": "7eabd6e0c3403cd70947cad0409fca7c",
+    "availability": 74
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-20",
+    "price": 900,
+    "id": "345f9234ad4047450c57f6fbd1484f13",
+    "availability": 41
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Delhi",
+    "date": "2021-02-20",
+    "price": 500,
+    "id": "0ff9dbea7ca2ff0ff177991eef4046a9",
+    "availability": 45
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-20",
+    "price": 600,
+    "id": "5cdc4c0e141fac0d969aeaba65151944",
+    "availability": 73
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Mumbai",
+    "date": "2021-02-20",
+    "price": 700,
+    "id": "eb42c1f152aabbfafc094470f390ab9f",
+    "availability": 4
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Bangalore",
+    "date": "2021-02-20",
+    "price": 500,
+    "id": "ac5c40a526d0e3979e4ef55c4267813d",
+    "availability": 26
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-20",
+    "price": 700,
+    "id": "e27e6762ebdd3dabd57af821b5819409",
+    "availability": 79
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Bangalore",
+    "date": "2021-02-20",
+    "price": 800,
+    "id": "94bcf5c6f290c4447194f3cf3fad2bd9",
+    "availability": 46
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model S",
+    "location": "Mumbai",
+    "date": "2021-02-20",
+    "price": 700,
+    "id": "d33ac47103ac37e1618dfa2a74ad2b38",
+    "availability": 80
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-20",
+    "price": 600,
+    "id": "c5d0476b335effd47ebec17f73111b2c",
+    "availability": 22
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-20",
+    "price": 700,
+    "id": "61512132b25484949bf272077fe09de5",
+    "availability": 75
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Mumbai",
+    "date": "2021-02-20",
+    "price": 500,
+    "id": "c4b50f1e9dfff6aaf56099c162d94593",
+    "availability": 98
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-20",
+    "price": 800,
+    "id": "eb7b4d8de4d3a12d5e1f322bf43c5f56",
+    "availability": 73
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Chennai",
+    "date": "2021-02-20",
+    "price": 600,
+    "id": "58389b9d90c7278762e70dc3dc045a20",
+    "availability": 77
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-20",
+    "price": 900,
+    "id": "b2ca82ce4b3913d3be270622e9374e17",
+    "availability": 74
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-20",
+    "price": 500,
+    "id": "5a4d7e7d101adf6103de81351ffe8540",
+    "availability": 54
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model S",
+    "location": "Delhi",
+    "date": "2021-02-20",
+    "price": 700,
+    "id": "dc09f26502ebb754e5251533bc692fae",
+    "availability": 7
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-20",
+    "price": 700,
+    "id": "378df1420e73930d5dfac4657b7cd7e5",
+    "availability": 86
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-20",
+    "price": 900,
+    "id": "500dfdfcd1569417e0adf386fc44543c",
+    "availability": 86
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-20",
+    "price": 500,
+    "id": "62158a44e1de5b37e3e0a88b91086823",
+    "availability": 2
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Chennai",
+    "date": "2021-02-20",
+    "price": 600,
+    "id": "fd793757181034e3a3f3904bb13c8034",
+    "availability": 5
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model S",
+    "location": "Chennai",
+    "date": "2021-02-21",
+    "price": 600,
+    "id": "889f5dd640362f5f85aeb8d5db1bd881",
+    "availability": 20
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Delhi",
+    "date": "2021-02-21",
+    "price": 600,
+    "id": "ed7bef362b8df1e00f3b9d6ce0e336b4",
+    "availability": 31
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Bangalore",
+    "date": "2021-02-21",
+    "price": 500,
+    "id": "b39dc18ea2befe70ad5669a26744b6fa",
+    "availability": 85
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-21",
+    "price": 600,
+    "id": "b72e0ca08daade728e5235b02386e20c",
+    "availability": 97
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Mumbai",
+    "date": "2021-02-21",
+    "price": 800,
+    "id": "f311fe6dd25bb773b01ef36fcc052c87",
+    "availability": 42
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model S",
+    "location": "Delhi",
+    "date": "2021-02-21",
+    "price": 800,
+    "id": "bbdb6f2d7ea43c2ec2bdcb10e514b194",
+    "availability": 65
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-21",
+    "price": 600,
+    "id": "61424cb383ea20df0b4b3573c1929f6d",
+    "availability": 31
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-21",
+    "price": 600,
+    "id": "7a0837bdfbfa38590639bdab2aacb229",
+    "availability": 83
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Delhi",
+    "date": "2021-02-21",
+    "price": 700,
+    "id": "ae4f7f64fb4f614863ce0c2652b29484",
+    "availability": 78
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Bangalore",
+    "date": "2021-02-21",
+    "price": 600,
+    "id": "d763270ae6748af1389fe7d375757adc",
+    "availability": 40
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-21",
+    "price": 800,
+    "id": "950da07c1bd0f4fa82901eb03a05da50",
+    "availability": 41
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-21",
+    "price": 600,
+    "id": "73c4b61b7af5c69e0230add235947f61",
+    "availability": 89
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-21",
+    "price": 700,
+    "id": "2859a26454b291ede47e28bdf455e836",
+    "availability": 97
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Delhi",
+    "date": "2021-02-21",
+    "price": 800,
+    "id": "dc4d23f08cc7b2c0df8c4baf1698b4cb",
+    "availability": 45
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-21",
+    "price": 700,
+    "id": "f804b882b39dcf1279fa1834a071bcdc",
+    "availability": 16
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-21",
+    "price": 600,
+    "id": "cda0ae057d524958d22292f9733db433",
+    "availability": 94
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-21",
+    "price": 500,
+    "id": "860bd1e5275ecd563b970671b2d43d5b",
+    "availability": 2
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Mumbai",
+    "date": "2021-02-21",
+    "price": 600,
+    "id": "4e2354ef215d6e106e4e98bd165d5b8c",
+    "availability": 69
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Chennai",
+    "date": "2021-02-21",
+    "price": 600,
+    "id": "416b8c6a8917a6845bc96dc4ed7bc852",
+    "availability": 53
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Bangalore",
+    "date": "2021-02-21",
+    "price": 700,
+    "id": "036e9b9683f541c17290261c9ebae499",
+    "availability": 76
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Bangalore",
+    "date": "2021-02-22",
+    "price": 700,
+    "id": "79d8e6cae7f1bf5e382b25321d9dcb1c",
+    "availability": 64
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-22",
+    "price": 800,
+    "id": "7dca3e435ad6ce3132e553b748ed67a5",
+    "availability": 73
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Delhi",
+    "date": "2021-02-22",
+    "price": 700,
+    "id": "f70c273a1df20e772a7764f11f1b8b02",
+    "availability": 84
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model S",
+    "location": "Mumbai",
+    "date": "2021-02-22",
+    "price": 500,
+    "id": "e51de8a632cb9e378b8c559ff96f52e0",
+    "availability": 92
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Delhi",
+    "date": "2021-02-22",
+    "price": 900,
+    "id": "b0c21e2e1453d4255466683c82efbb77",
+    "availability": 49
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-22",
+    "price": 500,
+    "id": "cdd57274b32cc2e7f28f16f9f8a051be",
+    "availability": 59
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Delhi",
+    "date": "2021-02-22",
+    "price": 800,
+    "id": "c91b00c0b2f15742e783268f00851cfb",
+    "availability": 12
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Chennai",
+    "date": "2021-02-22",
+    "price": 700,
+    "id": "6d2d78e73dd333710d3a707dde835d0b",
+    "availability": 31
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-22",
+    "price": 700,
+    "id": "aa1270aa42da183d937efe944f7db618",
+    "availability": 68
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Bangalore",
+    "date": "2021-02-22",
+    "price": 500,
+    "id": "d6a7eb8ecb3600d5098c5972de2a013e",
+    "availability": 50
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-22",
+    "price": 600,
+    "id": "2d2ec12e850a174d3ba4ca28d6e31152",
+    "availability": 20
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Bangalore",
+    "date": "2021-02-22",
+    "price": 700,
+    "id": "4ab95ccee81e3fbd49a5886687a5f051",
+    "availability": 40
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Chennai",
+    "date": "2021-02-22",
+    "price": 600,
+    "id": "d42461e5a17e7e717c17b11fb83344de",
+    "availability": 31
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Bangalore",
+    "date": "2021-02-22",
+    "price": 700,
+    "id": "ee88a473bb11b09d944c60591ac2748d",
+    "availability": 13
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model Y",
+    "location": "Mumbai",
+    "date": "2021-02-22",
+    "price": 900,
+    "id": "90aad5de5a7cb25eb2471f3ca8be84bc",
+    "availability": 0
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-22",
+    "price": 500,
+    "id": "4662c95b789af610bdd9dc427f17d0c1",
+    "availability": 20
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-22",
+    "price": 900,
+    "id": "3b4915c189c3f27fb84f32d3f798a856",
+    "availability": 94
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Chennai",
+    "date": "2021-02-22",
+    "price": 800,
+    "id": "b82dc5f5f28d068705e7a93994020646",
+    "availability": 66
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-22",
+    "price": 700,
+    "id": "6215abeaaaae746d141c0e973f6552a0",
+    "availability": 7
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Chennai",
+    "date": "2021-02-22",
+    "price": 900,
+    "id": "43dcae893fd59a86e97ba098eaea4406",
+    "availability": 28
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Delhi",
+    "date": "2021-02-23",
+    "price": 800,
+    "id": "2cf47b1ec83f40aac4b6fcacf03c161a",
+    "availability": 40
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-23",
+    "price": 900,
+    "id": "4bb7800b1b058df6b337be34a363d7da",
+    "availability": 75
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Bangalore",
+    "date": "2021-02-23",
+    "price": 800,
+    "id": "27d7be14c278ecba5b14aaf6065ab801",
+    "availability": 76
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-23",
+    "price": 600,
+    "id": "de79f88847e2386da164ee4930ab1c64",
+    "availability": 6
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Bangalore",
+    "date": "2021-02-23",
+    "price": 700,
+    "id": "f840f99cdc42d4a1070d12d9ddfaea98",
+    "availability": 33
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Chennai",
+    "date": "2021-02-23",
+    "price": 700,
+    "id": "55622a6be106c00fe2f6d801d95a4a61",
+    "availability": 5
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Bangalore",
+    "date": "2021-02-23",
+    "price": 600,
+    "id": "244f235966f905015f643583d60e8c53",
+    "availability": 33
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-23",
+    "price": 600,
+    "id": "21f9181d7b6326539a8572603d63c6eb",
+    "availability": 81
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Bangalore",
+    "date": "2021-02-23",
+    "price": 700,
+    "id": "0e5c31139801df95c49a522c1aa1b70e",
+    "availability": 24
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-23",
+    "price": 600,
+    "id": "a21be4e075efb2524a221035e377926b",
+    "availability": 86
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-23",
+    "price": 800,
+    "id": "189b5c0566cf669110aa04e2f8f38b43",
+    "availability": 89
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Chennai",
+    "date": "2021-02-23",
+    "price": 900,
+    "id": "f7f939295f74a20aa22401e0756b3b48",
+    "availability": 91
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-23",
+    "price": 500,
+    "id": "ef84406e10c989308273b1c8d6b3e03a",
+    "availability": 72
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-23",
+    "price": 500,
+    "id": "7795395dbb7ae2a3615ef6c22ac13ee3",
+    "availability": 90
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-23",
+    "price": 600,
+    "id": "ed5314ac115c75927ed9e7bc53fc9f98",
+    "availability": 73
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Mumbai",
+    "date": "2021-02-23",
+    "price": 700,
+    "id": "970e5df778242e09c66abbb2822887a2",
+    "availability": 7
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Delhi",
+    "date": "2021-02-23",
+    "price": 700,
+    "id": "e9ae10c51641fee342927bc801bb9f83",
+    "availability": 66
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-23",
+    "price": 800,
+    "id": "33565868acd4b4a4039223db8ec8dd88",
+    "availability": 64
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-23",
+    "price": 700,
+    "id": "0130f2b1837a482b0379a181f16c85ab",
+    "availability": 46
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-23",
+    "price": 500,
+    "id": "12332829415abad6ac320cf50fe0fdd1",
+    "availability": 64
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-24",
+    "price": 600,
+    "id": "acf074d0c65c2d5609f8658da698fdf8",
+    "availability": 62
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Delhi",
+    "date": "2021-02-24",
+    "price": 900,
+    "id": "db93f89e32080606d0a1edb29047f954",
+    "availability": 70
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Chennai",
+    "date": "2021-02-24",
+    "price": 800,
+    "id": "f0d7b2bbee094228af4f0f575918e13e",
+    "availability": 26
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Bangalore",
+    "date": "2021-02-24",
+    "price": 700,
+    "id": "830f2611bfe7f6251f0d25c6336ccbc6",
+    "availability": 75
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-24",
+    "price": 900,
+    "id": "d205f192aca70fbd0fe64a3040fc4a17",
+    "availability": 46
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-24",
+    "price": 800,
+    "id": "de1e9e29f8ba7b160d7185ce3957c907",
+    "availability": 71
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-24",
+    "price": 700,
+    "id": "0e7fbd3108eee3fa109f3a1cc4632a65",
+    "availability": 50
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Delhi",
+    "date": "2021-02-24",
+    "price": 600,
+    "id": "84dc9ad7b06473543049ad7fd9103ea3",
+    "availability": 88
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-24",
+    "price": 900,
+    "id": "a7430d0342291322314423013e5bfe52",
+    "availability": 8
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Bangalore",
+    "date": "2021-02-24",
+    "price": 700,
+    "id": "cf8dffff5cd00e8e4cc60a316fa7c332",
+    "availability": 34
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-24",
+    "price": 600,
+    "id": "807e890f644272cd632301d6c8d76c49",
+    "availability": 87
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-24",
+    "price": 800,
+    "id": "af24754696240bb8f7fef5644600b60d",
+    "availability": 56
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-24",
+    "price": 700,
+    "id": "a365639ecdebc996d3cafa51d0a5da19",
+    "availability": 72
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-24",
+    "price": 800,
+    "id": "51136e96e39c3180fff12b923f95533c",
+    "availability": 80
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Mumbai",
+    "date": "2021-02-24",
+    "price": 700,
+    "id": "a1f25ec0af637cbaddf2199b1b1e51b3",
+    "availability": 96
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Chennai",
+    "date": "2021-02-24",
+    "price": 700,
+    "id": "f7122eccfdae2b5b6bf2b373a1120240",
+    "availability": 58
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-24",
+    "price": 900,
+    "id": "5e4ccef5860f2812d2016ef9c4de46bf",
+    "availability": 3
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-24",
+    "price": 600,
+    "id": "c9185dffbaa927cabb6a72be99b18a20",
+    "availability": 54
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model Y",
+    "location": "Delhi",
+    "date": "2021-02-24",
+    "price": 600,
+    "id": "e686d1a241ded1b3aa6b1112223e4e97",
+    "availability": 61
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model Y",
+    "location": "Mumbai",
+    "date": "2021-02-24",
+    "price": 700,
+    "id": "c2117b5b2436cd3a11a9f6f34e1c8872",
+    "availability": 66
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Bangalore",
+    "date": "2021-02-25",
+    "price": 600,
+    "id": "dce5462d2c213e42820e70ad1a8e7e68",
+    "availability": 84
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-25",
+    "price": 600,
+    "id": "c9af5826e21a5410b7695155879c2aef",
+    "availability": 53
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Chennai",
+    "date": "2021-02-25",
+    "price": 600,
+    "id": "f27d63e93be1ff7c2c1f881d810d5dd3",
+    "availability": 77
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-25",
+    "price": 500,
+    "id": "7b511e99ef6dbf925cba1a4ea7de9e7a",
+    "availability": 22
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-25",
+    "price": 600,
+    "id": "ef0b2b6206dade48bd9dae0c409ca8b4",
+    "availability": 95
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Chennai",
+    "date": "2021-02-25",
+    "price": 500,
+    "id": "87112b7bb878bb8457ee6f863e03339a",
+    "availability": 73
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Bangalore",
+    "date": "2021-02-25",
+    "price": 700,
+    "id": "20b6f385950aadf5d9531b0b4eee8b39",
+    "availability": 12
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Bangalore",
+    "date": "2021-02-25",
+    "price": 500,
+    "id": "ae24acd550513f536445c8e9c4fe16a1",
+    "availability": 51
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-25",
+    "price": 600,
+    "id": "e7a715861a8d07139242972a0fa678dc",
+    "availability": 39
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Chennai",
+    "date": "2021-02-25",
+    "price": 600,
+    "id": "a4188a45097863c36c72d17ec7f5978d",
+    "availability": 68
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Mumbai",
+    "date": "2021-02-25",
+    "price": 700,
+    "id": "627c87b459187d6a4bbe3ed892e257fd",
+    "availability": 70
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-25",
+    "price": 900,
+    "id": "82eeeff4f7fec11c5598845b3e509f51",
+    "availability": 66
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Mumbai",
+    "date": "2021-02-25",
+    "price": 700,
+    "id": "acbed57dec4cebbc2ddb3434c2004be5",
+    "availability": 85
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Bangalore",
+    "date": "2021-02-25",
+    "price": 800,
+    "id": "e0abf93a05e8d4b2fe51976ca4d13750",
+    "availability": 13
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Mumbai",
+    "date": "2021-02-25",
+    "price": 700,
+    "id": "0cf79483976572c65d25c64c1a4426e3",
+    "availability": 40
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-25",
+    "price": 800,
+    "id": "dce62f3fcabd977612983253403c2b35",
+    "availability": 32
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-25",
+    "price": 500,
+    "id": "839f2c2a60b37d4cf1a76d6feab70e43",
+    "availability": 44
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-25",
+    "price": 600,
+    "id": "1ad5a23f764d9dafc8f5bc7d899a003a",
+    "availability": 81
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-25",
+    "price": 700,
+    "id": "2f6e84ec2383e3246e9f3606fd91d837",
+    "availability": 76
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-25",
+    "price": 800,
+    "id": "337e5adf5b13211dfad3b0fd53e1959f",
+    "availability": 100
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Bangalore",
+    "date": "2021-02-26",
+    "price": 700,
+    "id": "b2bba0d0be0e744d07ad3f86e344ed6f",
+    "availability": 71
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-26",
+    "price": 600,
+    "id": "5b9abe9fc52d737a596897d84053a5dd",
+    "availability": 59
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model S",
+    "location": "Delhi",
+    "date": "2021-02-26",
+    "price": 500,
+    "id": "061458111de9424cce98180ef67fae87",
+    "availability": 52
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Bangalore",
+    "date": "2021-02-26",
+    "price": 600,
+    "id": "b256a9c33f32d6de6f703acba6378d55",
+    "availability": 68
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-26",
+    "price": 700,
+    "id": "f36c09d93b55367ec2531cfd82fe5dce",
+    "availability": 41
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Bangalore",
+    "date": "2021-02-26",
+    "price": 700,
+    "id": "4e65c84782a55a3a5d9009ff67ccc4d2",
+    "availability": 11
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-26",
+    "price": 600,
+    "id": "e82d379ff1cd9f9d33747075cd8d6a6d",
+    "availability": 6
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Bangalore",
+    "date": "2021-02-26",
+    "price": 900,
+    "id": "14113b304de6b2c65312510d9932ddf3",
+    "availability": 14
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-26",
+    "price": 900,
+    "id": "0df7b8aab1be7b32023a57d775336de9",
+    "availability": 31
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-26",
+    "price": 700,
+    "id": "31c945b873d21d3e9f57475b057a3e0e",
+    "availability": 92
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Bangalore",
+    "date": "2021-02-26",
+    "price": 600,
+    "id": "1218c7b6edbffdc001aa6a5638ec6153",
+    "availability": 54
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Bangalore",
+    "date": "2021-02-26",
+    "price": 500,
+    "id": "bb159ec36d814a7e0518336735da58bc",
+    "availability": 94
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-26",
+    "price": 800,
+    "id": "61061928a6cd26fab555686c9c502b90",
+    "availability": 83
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-26",
+    "price": 700,
+    "id": "10520c9b4d7fc3c2c1a54f686463ccc2",
+    "availability": 39
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-26",
+    "price": 600,
+    "id": "7cfdda4ec8d7ca00124da5b41f77646e",
+    "availability": 18
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Chennai",
+    "date": "2021-02-26",
+    "price": 800,
+    "id": "2cc2af530b629c95345a3bb9ebf13bb1",
+    "availability": 35
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-26",
+    "price": 800,
+    "id": "a4a1828727cd429e5615c29507489cbc",
+    "availability": 96
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Delhi",
+    "date": "2021-02-26",
+    "price": 600,
+    "id": "6a0cd981794effe1f428119f38f94261",
+    "availability": 81
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-26",
+    "price": 500,
+    "id": "53f4d58ac7174e229bff32ed6f0eefc8",
+    "availability": 43
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Mumbai",
+    "date": "2021-02-26",
+    "price": 700,
+    "id": "61a5030c9eabb7a13c754c21a5e3898b",
+    "availability": 52
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-27",
+    "price": 600,
+    "id": "e438144ab7130c3d18512ec085f533e3",
+    "availability": 34
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Mumbai",
+    "date": "2021-02-27",
+    "price": 500,
+    "id": "9ec80bda458d958bfbc4d7d49b45d0b0",
+    "availability": 88
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model S",
+    "location": "Mumbai",
+    "date": "2021-02-27",
+    "price": 800,
+    "id": "b12ae594f407f2358eb937570d044639",
+    "availability": 19
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Bangalore",
+    "date": "2021-02-27",
+    "price": 700,
+    "id": "1f0ba6f43d06653a575e5d782b47831d",
+    "availability": 32
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Mumbai",
+    "date": "2021-02-27",
+    "price": 500,
+    "id": "0ad654af0bfff266fb346912cc8d9810",
+    "availability": 14
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-27",
+    "price": 700,
+    "id": "4171e94d5584849a312d7fe4fcb5c4f5",
+    "availability": 10
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-27",
+    "price": 600,
+    "id": "fc3211841eec7b271f889f4c448aa587",
+    "availability": 48
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Chennai",
+    "date": "2021-02-27",
+    "price": 700,
+    "id": "dde7149b66ff7658c7a5b9674ade0c61",
+    "availability": 83
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Bangalore",
+    "date": "2021-02-27",
+    "price": 600,
+    "id": "917bf480e21ba4c8174f0d49bcb7060d",
+    "availability": 66
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-27",
+    "price": 900,
+    "id": "27cba5b0df9acfa4be409ae09a10f59e",
+    "availability": 98
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-27",
+    "price": 900,
+    "id": "bb82bc9323bc38cbd7addb358984fd1a",
+    "availability": 54
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-27",
+    "price": 800,
+    "id": "e901e4cd620089ad5e592c49b316dc20",
+    "availability": 49
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-27",
+    "price": 800,
+    "id": "95d5c49b9079d765010c6a3572f865db",
+    "availability": 87
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-27",
+    "price": 900,
+    "id": "6eedf6a7ebc546a2dc313e3c4f3c5bcd",
+    "availability": 38
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Mumbai",
+    "date": "2021-02-27",
+    "price": 600,
+    "id": "31d592c7c6f62795b103d90c1d7c536c",
+    "availability": 16
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-27",
+    "price": 800,
+    "id": "07922461ddc366ff703f065967851fc5",
+    "availability": 69
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-27",
+    "price": 700,
+    "id": "37b9ee8aacfe2fd8cbc0cdb831cabb1e",
+    "availability": 50
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-27",
+    "price": 900,
+    "id": "140ad3743d2c502707fb20f58979bf58",
+    "availability": 79
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Chennai",
+    "date": "2021-02-27",
+    "price": 700,
+    "id": "9775e0deb2fe255364335d711bf7a34b",
+    "availability": 16
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-27",
+    "price": 900,
+    "id": "71c42c96d8e0dbf94452f57a09981565",
+    "availability": 75
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Chennai",
+    "date": "2021-02-28",
+    "price": 800,
+    "id": "216f70458b24f8325258d7a805c7afd1",
+    "availability": 60
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Chennai",
+    "date": "2021-02-28",
+    "price": 900,
+    "id": "b3803f0ffb1ebdf9c393a6e527cbcc74",
+    "availability": 11
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Bangalore",
+    "date": "2021-02-28",
+    "price": 600,
+    "id": "179ca5831087d12d622bbc2578081077",
+    "availability": 35
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-28",
+    "price": 800,
+    "id": "a10d3e3cb355ae7403da022725bfb417",
+    "availability": 40
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Bangalore",
+    "date": "2021-02-28",
+    "price": 900,
+    "id": "505f48c390ce7b4eb105fcaada4e96a2",
+    "availability": 36
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Mumbai",
+    "date": "2021-02-28",
+    "price": 600,
+    "id": "84d09cb835c7beb05e3cb34d3bd51c5d",
+    "availability": 42
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Bangalore",
+    "date": "2021-02-28",
+    "price": 900,
+    "id": "20df669d0770d5d0920e9a69a565b3ad",
+    "availability": 21
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-28",
+    "price": 800,
+    "id": "02da70cdbe3ae8dc2cd2921fa1220d23",
+    "availability": 39
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-28",
+    "price": 600,
+    "id": "224bc2bd251aef87ffe758194d7ff29e",
+    "availability": 77
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-28",
+    "price": 700,
+    "id": "9f4a4ab6d08bd058e04aa35c6f5d8d47",
+    "availability": 2
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Delhi",
+    "date": "2021-02-28",
+    "price": 600,
+    "id": "7cad64c7ee438aa9ca71044ee1d1355e",
+    "availability": 52
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-28",
+    "price": 800,
+    "id": "6d0670a89e6854565a44404e42696a38",
+    "availability": 24
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-28",
+    "price": 600,
+    "id": "2943d874790b697cf5842591e5e9ff3e",
+    "availability": 7
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Chennai",
+    "date": "2021-02-28",
+    "price": 900,
+    "id": "d08d686bd5c5a0790b5a36dc74b81c8a",
+    "availability": 72
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Mumbai",
+    "date": "2021-02-28",
+    "price": 600,
+    "id": "47c0f3b8532907851f9e8f25ee428465",
+    "availability": 61
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-28",
+    "price": 800,
+    "id": "334810e9a22ca58c8f97ce8dbee355d7",
+    "availability": 5
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model S",
+    "location": "Mumbai",
+    "date": "2021-02-28",
+    "price": 800,
+    "id": "82c961a1ec36ccb52861d3e10c592f5c",
+    "availability": 70
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Bangalore",
+    "date": "2021-02-28",
+    "price": 600,
+    "id": "11f7ccde52535fdb7d70649bf8ba3ab6",
+    "availability": 25
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-28",
+    "price": 600,
+    "id": "9d235154168c956767a241dc41c0e588",
+    "availability": 76
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-28",
+    "price": 800,
+    "id": "f5ff49d24a90fa2837ae730c7cfcbb5d",
+    "availability": 20
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Bangalore",
+    "date": "2021-02-29",
+    "price": 800,
+    "id": "73ee394134db295aff1a082f59449cc7",
+    "availability": 89
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model Y",
+    "location": "Bangalore",
+    "date": "2021-02-29",
+    "price": 600,
+    "id": "82609d16164e3d12b30af40eb0d60c9f",
+    "availability": 53
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Delhi",
+    "date": "2021-02-29",
+    "price": 700,
+    "id": "175c20bd4f92296a4765bab0b55d27b0",
+    "availability": 17
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model S",
+    "location": "Chennai",
+    "date": "2021-02-29",
+    "price": 500,
+    "id": "7017877903ead552e8a47d89bdfa92fc",
+    "availability": 13
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-29",
+    "price": 800,
+    "id": "92d384bd4629bd90fab661f6e1e5ad6e",
+    "availability": 86
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Delhi",
+    "date": "2021-02-29",
+    "price": 800,
+    "id": "f5bd9731aa2baa445778a991f78f0864",
+    "availability": 58
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model X",
+    "location": "Delhi",
+    "date": "2021-02-29",
+    "price": 500,
+    "id": "b3dfb727da6e2f1246f2d34fb795bf58",
+    "availability": 42
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Chennai",
+    "date": "2021-02-29",
+    "price": 900,
+    "id": "855a213f35454165b7d4747f75fb84f0",
+    "availability": 86
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Delhi",
+    "date": "2021-02-29",
+    "price": 600,
+    "id": "28594756ac2a11d6a5d8e923d1de11ff",
+    "availability": 28
+}, {
+    "company": "Tesla Corporation",
+    "model": "Model 3",
+    "location": "Mumbai",
+    "date": "2021-02-29",
+    "price": 700,
+    "id": "fb03416f11c0e7b58c791bdab0660d84",
+    "availability": 84
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Delhi",
+    "date": "2021-02-29",
+    "price": 500,
+    "id": "5caa6ec76f4a64922624c0914344156e",
+    "availability": 60
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-29",
+    "price": 800,
+    "id": "23aa771d21046375878b7ada82006017",
+    "availability": 63
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Mumbai",
+    "date": "2021-02-29",
+    "price": 700,
+    "id": "ace96d79dc40e63f3b511b7978264716",
+    "availability": 46
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Bangalore",
+    "date": "2021-02-29",
+    "price": 500,
+    "id": "7df9cc2a1e99db1a70492712dbdaebe7",
+    "availability": 76
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Chennai",
+    "date": "2021-02-29",
+    "price": 500,
+    "id": "a3e2070bd012f0519c4dc59f4cd36e54",
+    "availability": 1
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Mumbai",
+    "date": "2021-02-29",
+    "price": 700,
+    "id": "f9be7ec7e5ba6b2e7988f9113cda1ad6",
+    "availability": 61
+}, {
+    "company": "Ferrari",
+    "model": "F8",
+    "location": "Bangalore",
+    "date": "2021-02-29",
+    "price": 900,
+    "id": "e2fa5993d09d9522a81deffe4f57dd8d",
+    "availability": 44
+}, {
+    "company": "Ford Mustang",
+    "model": "GT Sport",
+    "location": "Bangalore",
+    "date": "2021-02-29",
+    "price": 900,
+    "id": "cd344334d2aaa677d63b857945b8e100",
+    "availability": 92
+}, {
+    "company": "Lamborgini",
+    "model": "Urus",
+    "location": "Delhi",
+    "date": "2021-02-29",
+    "price": 800,
+    "id": "03d0caefee2e3878de4337e0c8106617",
+    "availability": 42
+}, {
+    "company": "Porsche",
+    "model": "Taycan",
+    "location": "Mumbai",
+    "date": "2021-02-29",
+    "price": 500,
+    "id": "9aa44966292d2050a1856cd2084c07dd",
+    "availability": 99
+}]

@@ -20,8 +20,8 @@ const Book = () => {
     }
 
     useEffect(() => {
-        const getFlights = () => {fetch(mongoUrl,mongoRequest).then(response => response.json()).then(data => {setBookData(data);console.log(bookData)});}
-        getFlights()
+        const getCars = () => {fetch(mongoUrl,mongoRequest).then(response => response.json()).then(data => {setBookData(data);console.log(bookData)});}
+        getCars()
     }, []);
 
     if(window.localStorage.getItem("token")){
@@ -37,7 +37,7 @@ const Book = () => {
                         return (
                             <div key={key} className="p-20 centerdiv" style={{justifyContent:'center', alignItems:'center',fontFamily:"Roboto Mono",fontSize:"20px",color:"white"}}>
                             <br/>
-                            <h1 className="text-white p-50">Your Flight Details</h1><br/>
+                            <h1 className="text-white p-50">Your Car Rent Details</h1><br/>
                             Your Name : {token.user}<br/>
                             Company Name : {data.company}<br/>
                             Model Name : {data.model}<br/>
@@ -61,7 +61,7 @@ const Book = () => {
                     <div style={{display: 'flex',  justifyContent:'center', alignItems:'center'}}>
                         <pre style={{color:"white"}}>
                             <br/>
-                            You must login to book a flight<br/><br/>
+                            You must login to rent a car<br/><br/>
                             <a href="/login"><Button id="rzp-button1" style={{width:"100%",fontFamily:"Cabin",fontSize:"18px"}}>Login</Button></a>
                         </pre>
                     </div>
