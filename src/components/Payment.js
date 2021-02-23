@@ -3,13 +3,13 @@ import jwt_decode from "jwt-decode";
 import axios from 'axios';
 import { useHistory } from "react-router-dom";
 
-var razorpayUrl = "https://us-central1-flightbookingpes.cloudfunctions.net/flight"
+var razorpayUrl = "https://us-central1-hermes-websprint-backend.cloudfunctions.net/hermes"
 var url = require('url');
 const Payment = () => {
     const [bookData, setBookData] = useState([]);
     const history = useHistory()
     //var mongoUrl = "http://localhost:8080/"
-    var mongoUrl = "https://us-central1-flightbookingpes.cloudfunctions.net/flight/"
+    var mongoUrl = "https://us-central1-hermes-websprint-backend.cloudfunctions.net/hermes/"
     var currentUrl = window.location.href;
     var parsedUrl = url.parse(currentUrl, true);
     var queryData = parsedUrl.query
@@ -83,10 +83,10 @@ const Payment = () => {
                     var postRequest = {"id":queryData.id}
                     console.log("Post Request"+JSON.stringify(postRequest))
                     axios.post(mongoUrl,postRequest).then(response =>{
-                        //alert("Post Response"+JSON.stringify(response))
+                        alert("Post Response"+JSON.stringify(response))
                         var postResponse = response.data[0];
-                        //alert(JSON.stringify(postResponse.id))
-                        console.log(JSON.stringify(postResponse.id))
+                        alert(JSON.stringify(postResponse.id))
+                        console.log(JSON.stringify(postResponse))
                         var availNumber = postResponse.avail -1
                         //alert(availNumber)
                         console.log(availNumber)

@@ -30,21 +30,21 @@ const Book = () => {
     
     if(token.login === "True"){
         return (
-            <div>
+            <div className='bg-gray-900 min-h-full text-black bg-cover' style={{backgroundColor:"black"}}>
                 {
                     bookData.map((data,key) => {
                         {var payUrl = "/payment?id="+queryData.id+"&price="+data.price}
                         return (
-                            <div key={key} style={{justifyContent:'center', alignItems:'center',fontFamily:"Roboto",fontSize:"20px",color:"white"}}>
+                            <div key={key} className="p-20 centerdiv" style={{justifyContent:'center', alignItems:'center',fontFamily:"Roboto Mono",fontSize:"20px",color:"white"}}>
                             <br/>
-                            <h1 className={{marginLeft:"20px"}}>Your Flight Details</h1><br/>
+                            <h1 className="text-white p-50">Your Flight Details</h1><br/>
                             Your Name : {token.user}<br/>
                             Company Name : {data.company}<br/>
                             Model Name : {data.model}<br/>
                             Location : {data.location}<br/>
-                            Availability: {data.availability}<br/>
+                            Availability: {data.avail}<br/>
                             Price : ₹{data.price}<br/><br/>
-                            <a href={payUrl} style={{width:"40%"}}><Button id="rzp-button1" style={{width:"100%",fontFamily:"Cabin",fontSize:"18px"}}>Proceed To Pay</Button></a>
+                            <a href={payUrl} style={{width:"40%"}}><Button id="rzp-button1" style={{width:"100%",fontFamily:"Roboto",fontSize:"18px",color:"black",backgroundColor:"white"}}>Proceed To Pay</Button></a>
                           </div>
                       );
                     })

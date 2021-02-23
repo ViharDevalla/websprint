@@ -35,7 +35,7 @@ const Search = () => {
             {searchData.map((data,key) => {
                 return(
                     <div key={key}>
-                        <Card className="m-0">
+                        <Card className="m-0 m-10">
                         <CardContent className="bg-black">
                             <div className="flex space-x-20 content-between m-0">
                                 <img src={Tesla} style={{height:"100px",padding:"20px"}} />
