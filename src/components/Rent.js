@@ -18,7 +18,7 @@ const Rent = () => {
     const handleChange = (event) => {
         console.log(company,model,from,to,location)
         
-        window.sessionStorage.setItem("booking",[])
+        window.localStorage.setItem("booking",[])
         var query = "?company="+company+"&model="+model+"&from="+from+"&to="+to+"&location="+location;
         history.push({pathname:"/search",search:query})
       };

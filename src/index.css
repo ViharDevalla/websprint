@@ -73,6 +73,75 @@
 .robotomono{
     font-family: 'Roboto Mono', monospace;
 }
+
+#SingleHomeOrCar {
+    height: 100vh;
+    display: -ms-grid;
+    display: grid;
+    place-items: center;
+  }
+  
+  #SingleHomeOrCar #ContentWrapper {
+    height: 70vh;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  
+  #SingleHomeOrCar #ContentWrapper #Desc {
+    text-align: center;
+  }
+  
+  #SingleHomeOrCar #ContentWrapper #Desc h2 {
+    font-size: 3rem;
+    color: #393c41;
+  }
+  
+  #SingleHomeOrCar #ContentWrapper #Desc p {
+    color: #6d7074;
+    padding: 5px 0px 0px 0px;
+  }
+  
+  #SingleHomeOrCar #ContentWrapper #Desc p span {
+    border-bottom: 1px solid grey;
+  }
+  
+  #SingleHomeOrCar #ContentWrapper #Buttons {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  
+  #SingleHomeOrCar #ContentWrapper #Buttons button {
+    background: #3c3d42;
+    padding: 10px 60px;
+    border-radius: 20px;
+    margin: 0px 10px;
+    font-size: 1rem;
+    outline: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-family: "Rubik", sans-serif;
+  }
+  
+  #SingleHomeOrCar #ContentWrapper #Buttons button:nth-child(2) {
+    background: #e2dedd;
+    color: #3c3d42;
+  }
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

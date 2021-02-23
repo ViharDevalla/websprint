@@ -24,8 +24,8 @@ const Book = () => {
         getFlights()
     }, []);
 
-    if(window.sessionStorage.getItem("token")){
-        var token = jwt_decode(window.sessionStorage.getItem("token"))
+    if(window.localStorage.getItem("token")){
+        var token = jwt_decode(window.localStorage.getItem("token"))
     }
     
     if(token.login === "True"){

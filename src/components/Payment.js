@@ -101,7 +101,7 @@ const Payment = () => {
                         var putResponse = axios.put(mongoUrl+"update",putRequest)
                         //alert(JSON.stringify(putResponse))
 
-                        axios.post(mongoUrl+"booking",{"user":jwt_decode(window.sessionStorage.getItem("token")).user}).then(
+                        axios.post(mongoUrl+"booking",{"user":jwt_decode(window.localStorage.getItem("token")).user}).then(
                             response => {
                                 //alert("booking"+JSON.stringify(response))
                                 var bookingData = response.data[0]
@@ -112,7 +112,7 @@ const Payment = () => {
 
                                 var updateUser = {
                                     "in":{
-                                        "user":jwt_decode(window.sessionStorage.getItem("token")).user
+                                        "user":jwt_decode(window.localStorage.getItem("token")).user
                                     },
                                     "out":{
                                         "booking": bookArray

@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import jwt_decode from "jwt-decode";
 import '../App.css';
 
-if(window.sessionStorage.getItem("token")){
-    var token = jwt_decode(window.sessionStorage.getItem("token"))
+if(window.localStorage.getItem("token")){
+    var token = jwt_decode(window.localStorage.getItem("token"))
   }
 else{
     var token = {"Login":"False"}
@@ -18,7 +18,7 @@ class Navbar extends Component{
     }
 
     handleLogout = () => {    
-        window.sessionStorage.removeItem("token")
+        window.localStorage.removeItem("token")
         alert("You have successfully logged out");
         window.open("/","_self")
     }
@@ -31,15 +31,15 @@ class Navbar extends Component{
                         <a href="/" className="logo">Hermes</a>
                     </div>
                     <div className="flex-1">
-                       <a href="/buy">Model X</a>
+                       <a href="/buy">Buy</a>
                     </div>
                     <div className="flex-1">
-                       <a href="/buy"> Model Y</a>
+                       <a href="/rent">Rent</a>
                     </div>
-                    <div className="flex-1">
+                    {/* <div className="flex-1">
                        <a href="/buy"> Model Z</a>
-                    </div>
-                    <div className="flex-1">
+                    </div> */}
+                    <div className="flex-1 float-right">
                         <a href='/login' onClick={this.handleLogout}>Logout</a>
                     </div>
                 </div>
@@ -53,15 +53,15 @@ class Navbar extends Component{
                         <a href="/" className="logo">Hermes</a>
                     </div>
                     <div className="flex-1">
-                       <a href="/buy">Model X</a>
+                       <a href="/buy">Buy</a>
                     </div>
                     <div className="flex-1">
-                       <a href="/buy"> Model Y</a>
+                       <a href="/rent">Rent</a>
                     </div>
-                    <div className="flex-1">
+                    {/* <div className="flex-1">
                        <a href="/buy"> Model Z</a>
-                    </div>
-                    <div className="flex-1">
+                    </div> */}
+                    <div className="flex-1 float-right -mr-3">
                         <a href='/login'>Login/Register</a>
                     </div>
                 </div>

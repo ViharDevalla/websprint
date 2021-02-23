@@ -24,7 +24,7 @@ const Login = () => {
             if(status == 200){
                 alert("Login Successful")
                 //alert(JSON.stringify(bearerToken))
-                window.sessionStorage.setItem("token",bearerToken)
+                window.localStorage.setItem("token",bearerToken)
                 window.open("/","_self")
             }
             else{
