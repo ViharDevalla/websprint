@@ -33,16 +33,10 @@ function Single(prop) {
                             <button className="close float-right -m-10 -mr-0.5  text-5xl" onClick={close}>
                             &times;
                             </button>
-                            <div className="header"> Modal Title </div>
+                            <div className="header"> {prop.head} </div>
                             <div className="content">
-                            {' '}
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, a nostrum.
-                            Dolorem, repellat quidem ut, minima sint vel eveniet quibusdam voluptates
-                            delectus doloremque, explicabo tempore dicta adipisci fugit amet dignissimos?
+                            {prop.details}
                             <br />
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur sit
-                            commodi beatae optio voluptatum sed eius cumque, delectus saepe repudiandae
-                            explicabo nemo nam libero ad, doloribus, voluptas rem alias. Vitae?
                             </div>
                             <div className="actions">
                             {/* <button

@@ -2,6 +2,22 @@ import {React,useState,useEffect} from 'react'
 import { useHistory } from "react-router-dom";
 
 import Tesla from '../assets/Tesla Corporation.png';
+import Porsche from '../assets/Porsche.png';
+import Lamborgini from '../assets/Lamborgini.png';
+import Ferrari from '../assets/Ferrari.png';
+import FordMustang from '../assets/Ford Mustang.png';
+
+
+
+import ModelS from '../assets/Model S.png';
+import Model3 from '../assets/Model 3.png';
+import ModelX from '../assets/Model X.png';
+import ModelY from '../assets/Model Y.png';
+import Urus from '../assets/Urus.png';
+import GTSport from '../assets/GT Sport.png';
+import Taycan from '../assets/Taycan.png';
+import F8 from '../assets/F8.png';
+
 import model3 from '../assets/Model 3.png'
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
@@ -33,15 +49,49 @@ const Search = () => {
     return (
         <div className="bg-gray-900 min-h-full p-20">
             {searchData.map((data,key) => {
-                var imagePath = '../assets/'+data.company+'.png'
-                var modelPath = '../assets/'+data.model+'.png'
+                if(data.company === 'Tesla Corporation'){
+                    var imagePath=Tesla
+                }
+                if(data.company === 'Porsche'){
+                    var imagePath=Porsche
+                }
+                if(data.company === 'Lamborgini'){
+                    var imagePath=Lamborgini
+                }
+                if(data.company === 'Ford Mustang'){
+                    var imagePath=FordMustang
+                }
+                if(data.model === 'Model S'){
+                    var modelPath=ModelS
+                }
+                if(data.model === 'Model 3'){
+                    var modelPath=Model3
+                }
+                if(data.model === 'Model X'){
+                    var modelPath=ModelX
+                }
+                if(data.model === 'Model Y'){
+                    var modelPath=ModelY
+                }
+                if(data.model === 'Urus'){
+                    var modelPath=Urus
+                }
+                if(data.model === 'F8'){
+                    var modelPath=F8
+                }
+                if(data.model === 'Taycan'){
+                    var modelPath=Taycan
+                }
+                if(data.model === 'GT Sport'){
+                    var modelPath=GTSport
+                }
                 return(
                     <div key={key}>
                         <Card className="m-0 m-10">
                         <CardContent className="bg-black">
                             <div className="flex space-x-20 content-between m-0">
-                                <img src={Tesla} style={{height:"100px",padding:"20px"}} />
-                                    <img src={model3} style={{height:"200px",padding:"20px"}} />
+                                <img src={imagePath} style={{height:"80px"}}/>
+                                    <img src={modelPath} style={{height:"200px",padding:"20px"}} />
                                 <div className="bg-black p-6 " style={{width:"100%"}}>
                                     <Typography className="robotomono text-xl  p-1" style={{color:"white",fontFamily:"Roboto Mono"}}>
                                         Car Company : {data.company}

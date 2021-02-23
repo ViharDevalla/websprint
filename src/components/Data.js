@@ -11,6 +11,8 @@ const Data = [
     fButton: 'Prebook Now',
     sButton: 'More Details',
     car: Car3,
+    head:'Gen X',
+    details:'The Gen X cars are designed to perfectly fit in your smart world. Its energetic design and powerful BS VI compliant engine are always ready to fuel your fast-paced lifestyle. Its smart technology and safety features add fun and ease to every journey. Giving you the confidence to take on life and manoeuvre through twists and turns in the smart way!Seeing the world with different eyes is what drives us. And so we dedicate every waking moment to shaping the future.Each day, we bring the world another little step forward – with our ideas, our passion, and our visions for the future of mobility.'
   },
   {
     title: 'Model Y',
@@ -19,6 +21,9 @@ const Data = [
     fButton: 'Prebook Now',
     sButton: 'More Details',
     car: Car1,
+    head:'Gen Y',
+    details:'The Gen Y cars are designed to perfectly fit in your smart world. Its energetic design and powerful BS VI compliant engine are always ready to fuel your fast-paced lifestyle. Its smart technology and safety features add fun and ease to every journey. Giving you the confidence to take on life and manoeuvre through twists and turns in the smart way!Seeing the world with different eyes is what drives us. And so we dedicate every waking moment to shaping the future. Each day, we bring the world another little step forward – with our ideas, our passion, and our visions for the future of mobility.'
+
   },
   {
     title: 'Model Z',
@@ -27,6 +32,9 @@ const Data = [
     fButton: 'Prebook Now',
     sButton: 'More Details',
     car: Car2,
+    head:'Gen Z',
+    details:'The Gen Z cars are designed to perfectly fit in your smart world. Its energetic design and powerful BS VI compliant engine are always ready to fuel your fast-paced lifestyle. Its smart technology and safety features add fun and ease to every journey. Giving you the confidence to take on life and manoeuvre through twists and turns in the smart way! Seeing the world with different eyes is what drives us. And so we dedicate every waking moment to shaping the future. Each day, we bring the world another little step forward – with our ideas, our passion, and our visions for the future of mobility.'
+
   },
   {
     title: 'Model 1',
@@ -35,6 +43,9 @@ const Data = [
     fButton: 'Prebook Now',
     sButton: 'More Details',
     car: Car4,
+    head:'Model 1',
+    details:'The Model 1 cars are designed to perfectly fit in your smart world. Its energetic design and powerful BS VI compliant engine are always ready to fuel your fast-paced lifestyle. Its smart technology and safety features add fun and ease to every journey. Giving you the confidence to take on life and manoeuvre through twists and turns in the smart way! Seeing the world with different eyes is what drives us. And so we dedicate every waking moment to shaping the future. Each day, we bring the world another little step forward – with our ideas, our passion, and our visions for the future of mobility.'
+
 
   },
   /*   {
