@@ -2,7 +2,7 @@ import {React,useState,useEffect} from 'react'
 import { useHistory } from "react-router-dom";
 
 import Tesla from '../assets/Tesla Corporation.png';
-import model3 from '../assets/teslamodel3.png';
+import model3 from '../assets/Model 3.png'
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
 import Button from '@material-ui/core/Button';

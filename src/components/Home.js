@@ -18,7 +18,7 @@ const Home = () => {
             <div className="p-6 pt-36 min-w-screen top-1/2 text-6xl text-center montserrat">
                 Experience the Future <b>NOW</b>
             </div>
-            <div className="buysell space-x-40">
+            <div className="buysell space-x-32">
                 <Button variant="contained" style={{width:"300px",backgroundColor:'rgba(256,256,256,0.7)',borderRadius:"30px",fontFamily:"Montserrat",fontWeight:"bold"}} onClick={()=> history.push('/buy')}>Buy</Button>
                 <Button variant="contained" style={{width:"300px",backgroundColor:'rgba(256,256,256,0.7)',borderRadius:"30px",fontFamily:"Montserrat",fontWeight:"bold"}} onClick={()=> history.push('/rent')}>Rent</Button>
             </div>

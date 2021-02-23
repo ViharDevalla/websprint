@@ -25,7 +25,7 @@ for date in range(1,30):
             "date":f"2021-02-{date}",
             "price": choice([x for x in range(500,1000,100)]),
             "id":str(hashlib.md5(f"Flight{date}{i}{random()}".encode()).hexdigest()),
-            "availability": randint(0,100)
+            "avail": randint(0,100)
         }
         carList.append(carDetail)   
 
