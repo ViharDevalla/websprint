@@ -118,7 +118,7 @@ const Rent = () => {
 
 const carCompany = [
     {      
-        title:"Tesla",
+        title:"Tesla Corporation",
     },   
     { 
         title:"Ford",
