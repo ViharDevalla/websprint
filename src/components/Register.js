@@ -23,7 +23,7 @@ const Register = () => {
     return (
         <div className='bg-gray-900 min-h-full login bg-cover'>
             <div className='w-1/4 h-screen bg-gray-400 float-right'>
-                    <div className='text-black p-5 m-5 align-center'>
+                    <div className='text-black p-5 m-5 mt-32 align-center'>
                         <h1 className='text-4xl m-2 montserrat'>Register</h1>
                         <TextField className="w-full text-white mb-8" style={{fontFamily:"Roboto Mono",color:"white",margin:"10px"}} id="outlined-basic" label="Username" variant="outlined" value={username} onChange={({target}) => setUsername(target.value)}/>
                         <TextField className="w-full m-10 " id="outlined-basic" style={{fontFamily:"Roboto Mono",color:"white",margin:"10px"}} label="Password" variant="outlined" value={pass} onChange={({target}) => setPass(target.value)}/>
