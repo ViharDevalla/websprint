@@ -27,6 +27,10 @@
 .rent{
     background: url("./assets/rent.jpg") center;
 }
+
+.login{
+    background: url("./assets/login.jpg") center;
+}
 .white{
     color:white;
 }
@@ -39,9 +43,35 @@
     transform: translate(-50%, -50%);
   }
 
+  .centerdiv{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+.center1{
+    margin: 0;
+    justify-content:center;
+  }
+
 .rentback{
     background: url("./assets/rentpage.jfif") center;
-    
+
+}
+
+.marginup{
+    margin: -10;
+}
+
+.montserrat{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.robotomono{
+    font-family: 'Roboto Mono', monospace;
 }
 @tailwind base;
 @tailwind components;
