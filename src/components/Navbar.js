@@ -28,7 +28,7 @@ class Navbar extends Component{
             return (
                 <div className="flex p-4 space-x-24 back text-lg poppin static min-w-full fixed">
                     <div className="ml-10 flex-1 lg:text-3xl md:text-3xl sm:text-lg">
-                        <a href="/" className="logo">Hermes</a>
+                        <a href="/" className="logo">Herme</a>
                     </div>
                     <div className="flex-1">
                        <a href="/buy">Buy</a>
